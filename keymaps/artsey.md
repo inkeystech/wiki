@@ -2,8 +2,8 @@
 title: artsey
 description: General documentation for the artsey keymap
 published: true
-date: 2022-04-20T23:02:46.306Z
-tags: keymap, artsey, comingsoon
+date: 2022-04-20T23:03:11.761Z
+tags: keymap, artsey
 editor: markdown
 dateCreated: 2022-04-20T17:16:46.429Z
 ---
