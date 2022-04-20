@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-20T21:54:50.335Z
+date: 2022-04-20T22:22:18.608Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-11T23:55:48.253Z
@@ -27,7 +27,7 @@ and additional info on how to get involved is over [here](/contributing)
 
 ## Contents
 
-The information in this knowledge base is organized as a tree with tags on each page. Please use the navigation bar on the left to discover main sections as well as tags that can help with content discovery.
+The information in this knowledge base is organized as a tree with tags on each page. Please use the navigation bar on the left to discover main sections as well as browse the tree of pages.
 
 ### Offline Viewing
 
