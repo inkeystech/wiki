@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-04-20T20:33:25.805Z
+date: 2022-04-20T21:57:46.715Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -31,7 +31,7 @@ dateCreated: 2022-04-20T19:52:36.779Z
 
 ## 'Ownership'
 
-Below you'll find a breakdown of who has 'owner' rights to various accounts/services used by the inkeys project, team and infrastruture.
+Below you'll find a breakdown of who has 'owner' rights to various accounts/services used by the inkeys project, team and infrastructure.
 
 ### KemoNine
 
