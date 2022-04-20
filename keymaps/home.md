@@ -2,7 +2,7 @@
 title: Keymaps
 description: Keymap related information
 published: true
-date: 2022-04-20T18:35:03.339Z
+date: 2022-04-20T18:40:30.623Z
 tags: keymap, wip
 editor: markdown
 dateCreated: 2022-04-20T17:37:36.835Z
