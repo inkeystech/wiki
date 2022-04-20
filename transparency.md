@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys.wiki is hosted
 published: true
-date: 2022-04-20T19:59:25.064Z
+date: 2022-04-20T20:25:00.520Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -13,25 +13,49 @@ dateCreated: 2022-04-20T19:52:36.779Z
 - NameCheap registrar
 - Cloudflare DNS management
 - Mailgun for smtp sending
-- DigitalOcean droplet for VPS
-- GitHub for git repository hosting
+- DigitalOcean droplet for VP
+- Discord for chat
+- GitHub for git repository hosting and GitHub pages
 
 ## Software
 
 - Ubuntu
 - Docker
 - js.wiki
+- jekyll
 
 ## Backups
 
-- Auto-backup to Digital Ocean spaces (private/non-public)
-- Auto-backup/export to GitHub (public)
+- js.wiki auto-backup to Digital Ocean spaces (private/non-public)
+- js.wiki auto-backup/export to GitHub (public)
 
 ## 'Ownership'
 
-KemoNine 'owns' the accounts used for NameCheap, Cloudflare, Mailgun, DigitalOcean and social login integrations.
+Below you'll find a breakdown of who has 'owner' rights to various accounts/services used by the inkeys project, team and infrastruture.
 
-## Login Methods
+### KemoNine
+
+- NameCheap
+- Cloudflare
+- Mailgun
+- DigitalOcean
+- GitHub org
+- GitHub repos
+- Social login integrations
+
+### Rusty Shackleford
+
+- GitHub org
+- GitHub repos
+- Discord
+
+### granitrocky
+
+- GitHub org
+- GitHub repos
+- Discord
+
+## Knowledge Base Specific
 
 > **ALL** login methods will expose your account e-mail address to the admins of this site. This is a very small list of humans and the few that have access are listed under the `Ownership` section.
 {.is-danger}
