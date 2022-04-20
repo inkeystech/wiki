@@ -2,7 +2,7 @@
 title: Hardware
 description: Hardware related information
 published: true
-date: 2022-04-20T18:39:55.196Z
+date: 2022-04-20T18:40:00.753Z
 tags: hardware, wip
 editor: markdown
 dateCreated: 2022-04-20T17:26:31.412Z
