@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-20T19:19:30.811Z
+date: 2022-04-20T19:20:58.537Z
 tags: wip
 editor: markdown
 dateCreated: 2022-04-11T23:55:48.253Z
@@ -29,7 +29,9 @@ The information in this knowledge base is organized as a tree with tags on each 
 
 ### Tags
 
-Some common tags used throughout the knowledge base
+Some common tags used throughout the knowledge base are below.
+
+> **Please note**: There is a button in the header that allows browsing the knowledge base by tags.
 
 - `wip`
    pages that are being actively worked on by editors
