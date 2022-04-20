@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-20T21:54:38.702Z
+date: 2022-04-20T21:54:50.335Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-11T23:55:48.253Z
@@ -11,7 +11,7 @@ dateCreated: 2022-04-11T23:55:48.253Z
 ## Welcome [![Discord](https://img.shields.io/discord/962797925551992893?style=plastic&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fGUjnUuAVQ)
 
 
-The inkeys knowledge base is mean to be a go-to resource for all thinks related to input devices.
+The inkeys knowledge base is meant to be a go-to resource for all thinks related to input devices.
 
 Please don't hesitate to join our chat (link above) to discuss the contents of this knowledge base with us. 
 
