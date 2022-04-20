@@ -2,7 +2,7 @@
 title: Contributing
 description: Information on how to contribute to the inkeys project
 published: true
-date: 2022-04-20T20:57:18.757Z
+date: 2022-04-20T20:57:53.177Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T20:13:08.062Z
@@ -27,7 +27,7 @@ Once we see your message, we'll work with you to get setup and going for editing
 
 ## Guidelines
 
-> Habitually failing to perform these guidelines will result in revoked access.
+> Habitually failing to perform these items will result in revoked access.
 {.is-warning}
 
 - Use markdown editors *exclusively*
