@@ -2,7 +2,7 @@
 title: Contributing
 description: Information on how to contribute to the inkeys project
 published: true
-date: 2022-04-20T20:55:47.614Z
+date: 2022-04-20T20:57:18.757Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T20:13:08.062Z
@@ -21,9 +21,9 @@ We *require* the below `Guidelines` are met at all times.
 
 ## Requesting Access
 
-If you'd still like access after reviewing the `Guidelines`, please join our documentation channel on Discord [channel invite here] and let us know you'd like to help. 
+If you'd still like access after reviewing the `Guidelines`, please join our documentation channel on Discord [here](https://discord.gg/e5uByzXCN9) and let us know you'd like to help. 
 
-Once we see your message, we'll work with you to get setup and going for editing the wiki
+Once we see your message, we'll work with you to get setup and going for editing the knowledge base.
 
 ## Guidelines
 
