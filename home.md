@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-20T20:36:26.951Z
+date: 2022-04-20T20:42:58.838Z
 tags: wip
 editor: markdown
 dateCreated: 2022-04-11T23:55:48.253Z
@@ -31,7 +31,7 @@ The information in this knowledge base is organized as a tree with tags on each 
 
 ### Offline Viewing
 
-> If you'd perfer to view this knowledge base offline. The contents are synced to github regularly as markdon.
+> If you'd perfer to view this knowledge base offline. The contents are synced to github regularly as markdown.
 [![git mirror](https://badgen.net/badge/icon/git?icon=git&label)](https://github.com/inkeystech/wiki) [![git commits](https://img.shields.io/github/last-commit/inkeystech/wiki)](https://github.com/inkeystech/wiki)
 {.is-info}
 
