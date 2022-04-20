@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-20T20:07:50.958Z
+date: 2022-04-20T20:35:21.892Z
 tags: wip
 editor: markdown
 dateCreated: 2022-04-11T23:55:48.253Z
@@ -16,6 +16,10 @@ The inkeys knowledge base is mean to be a go-to resource for all thinks related 
 Please don't hesitate to join our chat (link above) to discuss the contents of this knowledge base with us. 
 
 > Feedback *is* welcome!
+
+## Transparency Report
+
+is over [here](/transparency)
 
 ## Contents
 
