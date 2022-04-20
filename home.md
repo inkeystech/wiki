@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2022-04-20T20:35:21.892Z
+date: 2022-04-20T20:36:26.951Z
 tags: wip
 editor: markdown
 dateCreated: 2022-04-11T23:55:48.253Z
@@ -20,6 +20,10 @@ Please don't hesitate to join our chat (link above) to discuss the contents of t
 ## Transparency Report
 
 is over [here](/transparency)
+
+## Contributing
+
+and additional info on how to get involved is over [here](/contributing)
 
 ## Contents
 
