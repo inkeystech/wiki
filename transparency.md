@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-04-20T20:26:27.666Z
+date: 2022-04-20T20:33:25.805Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -42,18 +42,21 @@ Below you'll find a breakdown of who has 'owner' rights to various accounts/serv
 - GitHub org
 - GitHub repos
 - Social login integrations
+- js.wiki
 
 ### Rusty Shackleford
 
 - GitHub org
 - GitHub repos
 - Discord
+- js.wiki
 
 ### granitrocky
 
 - GitHub org
 - GitHub repos
 - Discord
+- js.wiki
 
 ## Knowledge Base Specific
 
