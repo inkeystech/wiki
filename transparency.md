@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-04-20T20:25:33.339Z
+date: 2022-04-20T20:26:27.666Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -13,7 +13,7 @@ dateCreated: 2022-04-20T19:52:36.779Z
 - NameCheap registrar
 - Cloudflare DNS management
 - Mailgun for smtp sending
-- DigitalOcean droplet for VP
+- DigitalOcean for VPS, storage (spaces)
 - Discord for chat
 - GitHub for git repository hosting and GitHub pages
 
