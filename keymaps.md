@@ -2,7 +2,7 @@
 title: Keymaps
 description: Keymap related information
 published: true
-date: 2022-04-20T23:09:40.899Z
+date: 2022-04-21T03:38:45.362Z
 tags: keymap, wip
 editor: markdown
 dateCreated: 2022-04-20T17:37:36.835Z
@@ -17,3 +17,6 @@ A keyboard layout that scales from just 8 keys up to 36 keys. This project is a 
 
 > [artsey](/keymaps/artsey)
 An 8 key keyboard layout.
+
+> [voice dictation](/keymaps/voice-dictation)
+Computer operation using voice input.
