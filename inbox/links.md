@@ -2,7 +2,7 @@
 title: Links
 description: Links that need review and placement in the main wiki
 published: true
-date: 2022-04-22T14:16:27.876Z
+date: 2022-04-23T12:14:55.405Z
 tags: inbox
 editor: markdown
 dateCreated: 2022-04-20T14:55:42.256Z
@@ -86,3 +86,4 @@ dateCreated: 2022-04-20T14:55:42.256Z
 - https://github.com/yushakobo/qmk_firmware/tree/froggy_keymap/keyboards/helix/rev3_5rows/keymaps/froggy
 - https://freerouting.org/
 - https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets
+- https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization
