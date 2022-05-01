@@ -2,7 +2,7 @@
 title: Links
 description: Links that need review and placement in the main wiki
 published: true
-date: 2022-04-23T12:14:55.405Z
+date: 2022-05-01T23:06:43.972Z
 tags: inbox
 editor: markdown
 dateCreated: 2022-04-20T14:55:42.256Z
@@ -87,3 +87,4 @@ dateCreated: 2022-04-20T14:55:42.256Z
 - https://freerouting.org/
 - https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets
 - https://code.visualstudio.com/updates/v1_60#_high-performance-bracket-pair-colorization
+- https://didoesdigital.com/typey-type/
