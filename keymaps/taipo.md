@@ -1,8 +1,8 @@
 ---
 title: taipo
-description: General documentation for the taipo keymap
+description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2022-05-02T18:00:06.649Z
+date: 2022-05-02T18:01:18.164Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
