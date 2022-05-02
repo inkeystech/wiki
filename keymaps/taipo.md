@@ -2,7 +2,7 @@
 title: taipo
 description: General documentation for the taipo keymap
 published: true
-date: 2022-05-02T17:59:50.716Z
+date: 2022-05-02T18:00:06.649Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -32,7 +32,7 @@ Basically no one can agree on what chords feel better than what. It's preference
 Chords are pretty quick to memorize for me - not much slower than a normal layout. What makes taipo hard at first is the full alternation, since you could be starting a word on either hand, spacing with either thumb, and are essentially learning how to type every word two ways. I have found that the brain gets used to this as it will with anything. A good way to speed up the process is to practice a wordlist of 2 length words with or without a mix of 3 length words. It will quickly just feel like typing and no longer be confusing.
 ## How fast can you get on it?
 I got to 100 WPM on simple English in a couple weeks of learning this version of Taipo (video above) but am still around 60-70 on more complex English since starting a month ago. I think of the speed cap as being entirely mental. Alternating fast enough to hit 150 WPM or higher will be doable for me within the next year or so, which is good for a system which has such an emphasis on consistency and symbol accessibility.
-## Why am I innacurate on the layers?
+## Why am I inaccurate on the layers?
 Rememeber, Taipo has NO holding for any symbols or characters. The "layers" are more of a conceptual term to frame how you think about the system. Everything is still typed simultaneously as one combo. 
 
 # Showcase
