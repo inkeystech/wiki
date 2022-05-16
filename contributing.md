@@ -2,7 +2,7 @@
 title: Contributing
 description: Information on how to contribute to the inkeys project
 published: true
-date: 2022-04-20T21:02:17.205Z
+date: 2022-05-16T00:48:48.701Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T20:13:08.062Z
@@ -33,5 +33,5 @@ Once we see your message, we'll work with you to get setup and going for editing
 - Use markdown editors *exclusively*
 - Tag every page
 - Spell check every page prior to final save
-- *ALL* content should be friendly to *ALL AGES*. If you're not sure, ask yourself if Disney could sell it to children without a riot erupting
+- *ALL* content should be friendly to *ALL AGES*. If you're not sure
 - Do *not* include the locale in any links to pages in the knowledge base. The underlying software is setup to handle locale/translations (where available) automatically
