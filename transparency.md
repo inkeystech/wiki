@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-05-19T21:13:59.606Z
+date: 2022-05-19T23:26:09.130Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -14,6 +14,7 @@ dateCreated: 2022-04-20T19:52:36.779Z
 - Cloudflare DNS management
 - Mailgun for smtp sending
 - Vultr for VPS
+- Backblaze B2 for encrypted restic backups
 - Discord for chat
 - GitHub for git repository hosting and GitHub pages
 
@@ -27,6 +28,7 @@ dateCreated: 2022-04-20T19:52:36.779Z
 ## Backups
 
 - js.wiki auto-backup/export to GitHub (public)
+- restic (encrypted, private) to BackBlaze B2
 
 ## 'Ownership'
 
@@ -36,6 +38,7 @@ Below you'll find a breakdown of who has 'owner' rights to various accounts/serv
 
 - NameCheap
 - Cloudflare
+- Backblaze
 - Mailgun
 - Vultr
 - GitHub org
