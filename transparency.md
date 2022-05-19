@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-04-20T21:57:46.715Z
+date: 2022-05-19T21:13:59.606Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -13,20 +13,19 @@ dateCreated: 2022-04-20T19:52:36.779Z
 - NameCheap registrar
 - Cloudflare DNS management
 - Mailgun for smtp sending
-- DigitalOcean for VPS, storage (spaces)
+- Vultr for VPS
 - Discord for chat
 - GitHub for git repository hosting and GitHub pages
 
 ## Software
 
-- Ubuntu
+- arch linux
 - Docker
 - js.wiki
 - jekyll
 
 ## Backups
 
-- js.wiki auto-backup to Digital Ocean spaces (private/non-public)
 - js.wiki auto-backup/export to GitHub (public)
 
 ## 'Ownership'
@@ -38,7 +37,7 @@ Below you'll find a breakdown of who has 'owner' rights to various accounts/serv
 - NameCheap
 - Cloudflare
 - Mailgun
-- DigitalOcean
+- Vultr
 - GitHub org
 - GitHub repos
 - Social login integrations
