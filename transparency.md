@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-05-19T23:26:09.130Z
+date: 2022-05-20T11:04:45.790Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -24,6 +24,7 @@ dateCreated: 2022-04-20T19:52:36.779Z
 - Docker
 - js.wiki
 - jekyll
+- restic
 
 ## Backups
 
