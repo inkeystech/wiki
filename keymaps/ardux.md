@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:24:38.883Z
+date: 2022-06-14T22:34:42.615Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -28,7 +28,6 @@ Feedback via Discord is welcome.
 
 # Known Issues
 
-- remixes section
 - define single tap conventions
 - define hold tap conventions
 - define combo conventions
@@ -246,3 +245,13 @@ All source code is available on GitHub at [https://github.com/arduxio/](https://
 | -- | -- | -- | -- |
 | Profile 1 | Profile 2 | Profile 3 | BT Output |
 | Profile 4 | Profile 5 | Profile 6 | USB Output |
+
+# Remixes
+
+If you see a remix for ardux, it means a user has taken the ardux sources and made customizations using various bits of code we have setup to allow overriding the layout defaults [more] easily. The ardux source code repos have details on how to setup and get going with remixes.
+
+We *encourage* users of ardux to change the layout if desired and make it their own.
+
+If you have a remix, we welcome posts about how you've remixed on our Discord.
+
+Please note: you will need to compile the appropriate keyboard firmware in order to create a remix and we have found there is a bit of a learning curve to get going with remixes. We work to minimize the learning curve but have not found a way to improve the situation further yet.
