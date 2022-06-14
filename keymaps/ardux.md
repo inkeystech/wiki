@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:34:42.615Z
+date: 2022-06-14T22:43:01.137Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -44,6 +44,28 @@ All source code is available on GitHub at [https://github.com/arduxio/](https://
 
 # Layout: Standard (8 key) ardux
 
+## Formatting Conventions
+
+### Tables
+
+We use tables in the layout to create an illustrative grid of what keys need to be pressed or which function they perform. The key grid should match the main 8 keys used by ardux on your keyboard.
+
+### Key Icons
+
+We use the `⚪` symbol to denote a key that is *not* pressed and a `⚫` symbol to denote a pressed key.
+
+### Single Taps
+
+`Single Taps` are when you simply tap the indicated key.
+
+### Hold Taps
+
+`Hold Taps` are when you tap and hold the key down. Like you'd do for `Shift` on a traditional keyboard.
+
+### Combos
+
+`Combos` are when you tap multiple keys at the same time. Combos are a key feature of ardux and you'll be pressing multiple keys at the same time to type letters, symbols, etc. In the diagrams you'll want to press all of the indicated keys at the same time for the action to register.
+
 ## Global Actions
 
 ### Combos
@@ -80,8 +102,8 @@ All source code is available on GitHub at [https://github.com/arduxio/](https://
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
-| Number Layer | ⚪ | ⚪ | Parentheticals Layer |
-| Custom Layer | ⚪ | ⚪ | Symbol Layer |
+| Activate Number Layer | ⚪ | ⚪ | Activate Parentheticals Layer |
+| Activate Custom Layer | ⚪ | ⚪ | Activate Symbol Layer |
 
 ### Right Single Taps
 
@@ -94,8 +116,8 @@ All source code is available on GitHub at [https://github.com/arduxio/](https://
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
-| Parentheticals Layer | ⚪ | ⚪ | Number Layer |
-| Symbol Layer | ⚪ | ⚪ | Custom Layer |
+| Activate Parentheticals Layer | ⚪ | ⚪ | Activate Number Layer |
+| Activate Symbol Layer | ⚪ | ⚪ | Activate Custom Layer |
 
 ### Combos
 
