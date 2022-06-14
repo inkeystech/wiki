@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:53:22.460Z
+date: 2022-06-14T21:56:31.996Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -13,6 +13,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 # Known Issues
 
+- what is ardux and how this works?
 - define single tap conventions
 - define combo conventions
 - no hold tap for layer toggles documented
