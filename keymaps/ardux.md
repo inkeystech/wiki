@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T23:30:17.570Z
+date: 2022-06-14T23:34:46.905Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -370,3 +370,10 @@ Please refer to the standard ardux layout for the primary use and the below for 
 | ⚪ | F5 | F6 | F7 | F8 |
 | ⚪ | F9 | F10 | F11 | F12 |
 | ⚪ | ⚪ | ⚪ | | |
+
+# Layout: 40% ardux (32-36 key)
+
+number/symbol
+
+| *Grave* | F1 | F2 | F3 | F4 | F5 | | | | F6 | F7 | F8 | F9 | F10 | *Delete* |
+| ⚪ | 1 | 2 | 3 | 4 | 5
