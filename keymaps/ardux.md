@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:00:51.197Z
+date: 2022-06-14T22:04:16.359Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -19,7 +19,6 @@ dateCreated: 2022-04-20T14:58:35.235Z
 - define single tap conventions
 - define hold tap conventions
 - define combo conventions
-- no hold tap for layer toggles documented
 - add map for big ardux
 - add map for 40% ardux
 
@@ -57,12 +56,26 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | S | T | R | A |
 | O | I | Y | E |
 
+### Left Hold Taps
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| Number Layer | ⚪ | ⚪ | Parentheticals Layer |
+| Custom Layer | ⚪ | ⚪ | Symbol Layer |
+
 ### Right Single Taps
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | A | R | T | S |
 | E | Y | I | O |
+
+### Right Hold Taps
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| Parentheticals Layer | ⚪ | ⚪ | Number Layer |
+| Symbol Layer | ⚪ | ⚪ | Custom Layer |
 
 ### Combos
 
