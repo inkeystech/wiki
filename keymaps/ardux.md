@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:24:01.098Z
+date: 2022-06-14T22:24:38.883Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -35,13 +35,13 @@ Feedback via Discord is welcome.
 - add map for big ardux
 - add map for 40% ardux
 
-# Source Code
-
-All source code is available on GitHub at [https://github.com/arduxio/](https://github.com/arduxio/)
-
 # Supported Keyboards
 
 ardux is available for a number of keyboards. We currently have both [zmk](https://zmkfirmware.dev/) and [qmk](https://qmk.fm/) ports available. These ports include support for different keyboards. Please check either the [zmk-ardux](https://github.com/arduxio/zmk-ardux/) or [qmk-ardux](https://github.com/arduxio/qmk-ardux) release pages for current keyboard support.
+
+# Source Code
+
+All source code is available on GitHub at [https://github.com/arduxio/](https://github.com/arduxio/)
 
 # Layout: Standard (8 key) ardux
 
