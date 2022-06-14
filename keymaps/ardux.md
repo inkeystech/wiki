@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:20:10.081Z
+date: 2022-06-14T21:20:54.913Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -34,7 +34,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | BT Layer | ⚫⚪⚪⚫<br>⚫⚪⚪⚫ | ⚫⚪⚪⚫<br>⚫⚪⚪⚫ |
 | Clear Bluetooth Profile | ⚪⚫⚫⚪<br>⚪⚫⚫⚪ | ⚪⚫⚫⚪<br>⚪⚫⚫⚪ |
 
-# Default/Base/Start Layer Actions
+# Default/Base Layer Actions
 
 ## Left Single Taps
 
