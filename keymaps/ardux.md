@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:05:15.297Z
+date: 2022-06-14T22:07:49.296Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -14,7 +14,6 @@ dateCreated: 2022-04-20T14:58:35.235Z
 # Known Issues
 
 - what is ardux and how this works?
-- keyboard support (zmk/qmk/kmk/etc)
 - define single tap conventions
 - define hold tap conventions
 - define combo conventions
@@ -25,7 +24,11 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 All source code is available on GitHub at [https://github.com/arduxio/](https://github.com/arduxio/)
 
-# Standard (8 key) ardux
+# Supported Keyboards
+
+ardux is available for a number of keyboards. We currently have both [zmk](https://zmkfirmware.dev/) and [qmk](https://qmk.fm/) ports available. These ports include support for different keyboards. Please check either the [zmk-ardux](https://github.com/arduxio/zmk-ardux/) or [qmk-ardux](https://github.com/arduxio/qmk-ardux) release pages for current keyboard support.
+
+# Layout: Standard (8 key) ardux
 
 ## Global Actions
 
