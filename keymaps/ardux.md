@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:45:11.218Z
+date: 2022-06-14T23:22:56.002Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -49,29 +49,39 @@ If you have a remix, we welcome posts about how you've remixed on our Discord.
 
 Please note: you will need to compile the appropriate keyboard firmware in order to create a remix and we have found there is a bit of a learning curve to get going with remixes. We work to minimize the learning curve but have not found a way to improve the situation further yet.
 
-# Layout: Standard (8 key) ardux
+# Layout: Conventions
 
-## Formatting Conventions
-
-### Tables
-
-We use tables in the layout to create an illustrative grid of what keys need to be pressed or which function they perform. The key grid should match the main 8 keys used by ardux on your keyboard.
-
-### Key Icons
-
-We use the `⚪` symbol to denote a key that is *not* pressed and a `⚫` symbol to denote a pressed key.
-
-### Single Taps
+## Single Taps
 
 `Single Taps` are when you simply tap the indicated key.
 
-### Hold Taps
+## Hold Taps
 
 `Hold Taps` are when you tap and hold the key down. Like you'd do for `Shift` on a traditional keyboard.
 
-### Combos
+## Combos
 
 `Combos` are when you tap multiple keys at the same time. Combos are a key feature of ardux and you'll be pressing multiple keys at the same time to type letters, symbols, etc. In the diagrams you'll want to press all of the indicated keys at the same time for the action to register.
+
+### Tables
+
+We use tables to create an illustrative grid of what functions are mapped to which keys.
+
+We also use tables to illustrate which keys to press to activate a combo.
+
+### *Italic* function names
+
+We use *italics* to denote a key / function that is *optional* for inclusion on a physical keyboard. There are a number of keyboard options available in similar sizes. Due to clustering of keyboard sizes, the big and 40% ardux layouts make certain functions *optional* to be compatible with more keyboards.
+
+## Key Icons
+
+We use the `⚪` symbol to denote a key that is *not* pressed and a `⚫` symbol to denote a pressed key.
+
+We also use the `⚪` symbol to denote a key that is *not* mapped to a function.
+
+# Layout: Standard ardux (8 key)
+
+This is the standard form of ardux. This layout is 100% present in both big ardux and 40% ardux.
 
 ## Global Actions
 
@@ -274,3 +284,53 @@ We use the `⚪` symbol to denote a key that is *not* pressed and a `⚫` symbol
 | -- | -- | -- | -- |
 | Profile 1 | Profile 2 | Profile 3 | BT Output |
 | Profile 4 | Profile 5 | Profile 6 | USB Output |
+
+# Layout: big ardux (16-18 key)
+
+The big form of ardux. It includes **all** of standard ardux with some extras to facilitate using mod keys like shift and control, symbols and F1-12.
+
+Please refer to the standard ardux layout for the primary use and the below for the extra key mappings and addional layer detail.
+
+## Default/Base Layer Actions
+
+### Left Single Taps
+
+||||||
+|-|-|-|-|-|
+| S | T | R | A | - |
+| O | I | Y | E | Shift |
+| Ctrl | @ | Del | = | Tab
+| | |MO(1)|*Enter*|*Space*|
+
+## Symbol Layer Actions
+
+### Left Single Taps
+
+||||||
+|-|-|-|-|-|
+| ^ | { | } | # | \` |
+| & | ( | ) | $ | \ |
+| * | [ | ] | % | \| |
+| | | ⚪ | ⚪ | ⚪ |
+
+## Function Layer Actions
+
+### Activate Function Layer Combo
+
+#### Left
+
+||||||
+|-|-|-|-|-|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚫ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚫ |
+| | | ⚪ | ⚪ | ⚪ |
+
+### Left Single Taps
+
+||||||
+|-|-|-|-|-|
+| F4 | F3 | F2 | F1 | ⚪ |
+| F8 | F7 | F6 | F5 | ⚪ |
+| F12 | F11 | F10 | F9 | ⚪ |
+| | | ⚪ | ⚪ | ⚪ |
