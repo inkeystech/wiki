@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T19:36:19.882Z
+date: 2022-06-14T19:48:02.467Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -10,8 +10,6 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 # ardux
 `#comingsoon`
-
-## layout
 
 ## Layer: Global
 
@@ -40,179 +38,178 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ### Keys
 
-#### Right
-
-| C1 | C2 | C3 | C4 |
-| -- | -- | -- | -- |
- A | R | T | S |
- E | Y | I | O |
-
 #### Left
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
- S | T | R | A |
- O | I | Y | E |
+| S | T | R | A |
+| O | I | Y | E |
+
+#### Right
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| A | R | T | S |
+| E | Y | I | O |
 
 ### Combos
 
-| Character | Layer | Combo |
-| --------- | ----- | ----- |
-| D | Base | **Right**<br>⚫⚫⚫⚪<br>⚪⚪⚪⚪<br><br>**Left**<br>⚪⚫⚫⚫<br>⚪⚪⚪⚪<br> |
-| Z | Base | **Right**<br>⚫⚫⚫⚫<br>⚪⚪⚪⚪<br><br>**Left**<br>⚫⚫⚫⚫<br>⚪⚪⚪⚪<br> |
-| ' | Base | **Right**<br>⚫⚪⚪⚪<br>⚪⚫⚫⚪<br><br>**Left**<br>⚪⚪⚪⚫<br>⚪⚫⚫⚪<br> |
-| B | Base | **Right**<br>⚪⚪⚪⚪<br>⚫⚪⚪⚫<br><br>**Left**<br>⚪⚪⚪⚪<br>⚫⚪⚪⚫<br> |
-| / | Base | **Right**<br>⚫⚪⚪⚪<br>⚪⚪⚪⚫<br><br>**Left**<br>⚪⚪⚪⚫<br>⚫⚪⚪⚪<br> |
-| W | Base | **Right**<br>⚫⚪⚪⚫<br>⚪⚪⚪⚪<br><br>**Left**<br>⚫⚪⚪⚫<br>⚪⚪⚪⚪<br> |
-| , | Base | **Right**<br>⚫⚪⚪⚪<br>⚪⚪⚫⚪<br><br>**Left**<br>⚪⚪⚪⚫<br>⚪⚫⚪⚪<br> |
-| J | Base | **Right**<br>⚪⚪⚫⚫<br>⚪⚪⚪⚪<br><br>**Left**<br>⚫⚫⚪⚪<br>⚪⚪⚪⚪<br> |
-| F | Base | **Right**<br>⚫⚫⚪⚪<br>⚪⚪⚪⚪<br><br>**Left**<br>⚪⚪⚫⚫<br>⚪⚪⚪⚪<br> |
-| L | Base | **Right**<br>⚪⚪⚪⚪<br>⚫⚫⚫⚪<br><br>**Left**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚫<br> |
-| X | Base | **Right**<br>⚪⚫⚫⚫<br>⚪⚪⚪⚪<br><br>**Left**<br>⚫⚫⚫⚪<br>⚪⚪⚪⚪<br> |
-| U | Base | **Right**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚪<br><br>**Left**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚪<br> |
-| Caps Lock | Base | **Right**<br>⚫⚪⚪⚪<br>⚪⚫⚫⚫<br><br>**Left**<br>⚪⚪⚪⚫<br>⚫⚫⚫⚪<br> |
-| P | Base | **Right**<br>⚪⚪⚪⚪<br>⚫⚪⚫⚫<br><br>**Left**<br>⚪⚪⚪⚪<br>⚫⚫⚪⚫<br> |
-| V | Base | **Right**<br>⚪⚫⚪⚫<br>⚪⚪⚪⚪<br><br>**Left**<br>⚫⚪⚫⚪<br>⚪⚪⚪⚪<br> |
-| . | Base | **Right**<br>⚫⚪⚪⚪<br>⚪⚫⚪⚪<br><br>**Left**<br>⚪⚪⚪⚫<br>⚪⚪⚫⚪<br> |
-| ! | Base | **Right**<br>⚪⚪⚫⚪<br>⚪⚪⚫⚪<br><br>**Left**<br>⚪⚫⚪⚪<br>⚪⚫⚪⚪<br> |
-| H | Base | **Right**<br>⚪⚪⚪⚪<br>⚫⚪⚫⚪<br><br>**Left**<br>⚪⚪⚪⚪<br>⚪⚫⚪⚫<br> |
-| G | Base | **Right**<br>⚪⚫⚫⚪<br>⚪⚪⚪⚪<br><br>**Left**<br>⚪⚫⚫⚪<br>⚪⚪⚪⚪<br> |
-| K | Base | **Right**<br>⚪⚪⚪⚪<br>⚪⚫⚪⚫<br><br>**Left**<br>⚪⚪⚪⚪<br>⚫⚪⚫⚪<br> |
-| N | Base | **Right**<br>⚪⚪⚪⚪<br>⚪⚪⚫⚫<br><br>**Left**<br>⚪⚪⚪⚪<br>⚫⚫⚪⚪<br> |
-| M | Base | **Right**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚫<br><br>**Left**<br>⚪⚪⚪⚪<br>⚫⚫⚫⚪<br> |
-| C | Base | **Right**<br>⚪⚪⚪⚪<br>⚫⚫⚪⚪<br><br>**Left**<br>⚪⚪⚪⚪<br>⚪⚪⚫⚫<br> |
-| Q | Base | **Right**<br>⚫⚪⚫⚫<br>⚪⚪⚪⚪<br><br>**Left**<br>⚫⚫⚪⚫<br>⚪⚪⚪⚪<br> |
+| Character | Layer | Left | Right |
+| --------- | ----- | ---- | ----- |
+| D | Base | **Left**<br>⚪⚫⚫⚫<br>⚪⚪⚪⚪ | **Right**<br>⚫⚫⚫⚪<br>⚪⚪⚪⚪ |
+| Z | Base | **Left**<br>⚫⚫⚫⚫<br>⚪⚪⚪⚪ | **Right**<br>⚫⚫⚫⚫<br>⚪⚪⚪⚪ |
+| ' | Base | **Left**<br>⚪⚪⚪⚫<br>⚪⚫⚫⚪ | **Right**<br>⚫⚪⚪⚪<br>⚪⚫⚫⚪ |
+| B | Base | **Left**<br>⚪⚪⚪⚪<br>⚫⚪⚪⚫ | **Right**<br>⚪⚪⚪⚪<br>⚫⚪⚪⚫ |
+| / | Base | **Left**<br>⚪⚪⚪⚫<br>⚫⚪⚪⚪ | **Right**<br>⚫⚪⚪⚪<br>⚪⚪⚪⚫ |
+| W | Base | **Left**<br>⚫⚪⚪⚫<br>⚪⚪⚪⚪ | **Right**<br>⚫⚪⚪⚫<br>⚪⚪⚪⚪ |
+| , | Base | **Left**<br>⚪⚪⚪⚫<br>⚪⚫⚪⚪ | **Right**<br>⚫⚪⚪⚪<br>⚪⚪⚫⚪ |
+| J | Base | **Left**<br>⚫⚫⚪⚪<br>⚪⚪⚪⚪ | **Right**<br>⚪⚪⚫⚫<br>⚪⚪⚪⚪ |
+| F | Base | **Left**<br>⚪⚪⚫⚫<br>⚪⚪⚪⚪ | **Right**<br>⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
+| L | Base | **Left**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚫ | **Right**<br>⚪⚪⚪⚪<br>⚫⚫⚫⚪ |
+| X | Base | **Left**<br>⚫⚫⚫⚪<br>⚪⚪⚪⚪ | **Right**<br>⚪⚫⚫⚫<br>⚪⚪⚪⚪ |
+| U | Base | **Left**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚪ | **Right**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
+| Caps Lock | Base | **Left**<br>⚪⚪⚪⚫<br>⚫⚫⚫⚪ | **Right**<br>⚫⚪⚪⚪<br>⚪⚫⚫⚫ |
+| P | Base | **Left**<br>⚪⚪⚪⚪<br>⚫⚫⚪⚫ | **Right**<br>⚪⚪⚪⚪<br>⚫⚪⚫⚫ |
+| V | Base | **Left**<br>⚫⚪⚫⚪<br>⚪⚪⚪⚪ | **Right**<br>⚪⚫⚪⚫<br>⚪⚪⚪⚪ |
+| . | Base | **Left**<br>⚪⚪⚪⚫<br>⚪⚪⚫⚪ | **Right**<br>⚫⚪⚪⚪<br>⚪⚫⚪⚪ |
+| ! | Base | **Left**<br>⚪⚫⚪⚪<br>⚪⚫⚪⚪ | **Right**<br>⚪⚪⚫⚪<br>⚪⚪⚫⚪ |
+| H | Base | **Left**<br>⚪⚪⚪⚪<br>⚪⚫⚪⚫ | **Right**<br>⚪⚪⚪⚪<br>⚫⚪⚫⚪ |
+| G | Base | **Left**<br>⚪⚫⚫⚪<br>⚪⚪⚪⚪ | **Right**<br>⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
+| K | Base | **Left**<br>⚪⚪⚪⚪<br>⚫⚪⚫⚪ | **Right**<br>⚪⚪⚪⚪<br>⚪⚫⚪⚫ |
+| N | Base | **Left**<br>⚪⚪⚪⚪<br>⚫⚫⚪⚪ | **Right**<br>⚪⚪⚪⚪<br>⚪⚪⚫⚫ |
+| M | Base | **Left**<br>⚪⚪⚪⚪<br>⚫⚫⚫⚪ | **Right**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚫ |
+| C | Base | **Left**<br>⚪⚪⚪⚪<br>⚪⚪⚫⚫ | **Right**<br>⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
+| Q | Base | **Left**<br>⚫⚫⚪⚫<br>⚪⚪⚪⚪ | **Right**<br>⚫⚪⚫⚫<br>⚪⚪⚪⚪ |
 ## Layer: Numbers
 
 ### Keys
 
-#### Right
-
-| C1 | C2 | C3 | C4 |
-| -- | -- | -- | -- |
- 1 | 2 | 3 | ⚪ |
- 4 | 5 | 6 | ⚪ |
-
 #### Left
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
- ⚪ | 3 | 2 | 1 |
- ⚪ | 6 | 5 | 4 |
+| ⚪ | 3 | 2 | 1 |
+| ⚪ | 6 | 5 | 4 |
+
+#### Right
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| 1 | 2 | 3 | ⚪ |
+| 4 | 5 | 6 | ⚪ |
 
 ### Combos
 
-| Character | Layer | Combo |
-| --------- | ----- | ----- |
-| 8 | Numbers | **Right**<br>⚪⚫⚫⚪<br>⚪⚪⚪⚪<br><br>**Left**<br>⚪⚫⚫⚪<br>⚪⚪⚪⚪<br> |
-| 0 | Numbers | **Right**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚪<br><br>**Left**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚪<br> |
-| 9 | Numbers | **Right**<br>⚪⚪⚪⚪<br>⚫⚫⚪⚪<br><br>**Left**<br>⚪⚪⚪⚪<br>⚪⚪⚫⚫<br> |
-| 7 | Numbers | **Right**<br>⚫⚫⚪⚪<br>⚪⚪⚪⚪<br><br>**Left**<br>⚪⚪⚫⚫<br>⚪⚪⚪⚪<br> |
+| Character | Layer | Left | Right |
+| --------- | ----- | ---- | ----- |
+| 8 | Numbers | **Left**<br>⚪⚫⚫⚪<br>⚪⚪⚪⚪ | **Right**<br>⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
+| 0 | Numbers | **Left**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚪ | **Right**<br>⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
+| 9 | Numbers | **Left**<br>⚪⚪⚪⚪<br>⚪⚪⚫⚫ | **Right**<br>⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
+| 7 | Numbers | **Left**<br>⚪⚪⚫⚫<br>⚪⚪⚪⚪ | **Right**<br>⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
 ## Layer: Symbols
 
 ### Keys
 
-#### Right
-
-| C1 | C2 | C3 | C4 |
-| -- | -- | -- | -- |
- ! | \ | ; | ` |
- ⚪ | ? | - | = |
-
 #### Left
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
- ` | ; | \ | ! |
- = | - | ? | ⚪ |
+| \` | ; | \ | ! |
+| = | - | ? | ⚪ |
+
+ #### Right
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| ! | \ | ; | \` |
+| ⚪ | ? | - | = |
 
 ## Layer: Parentheticals
 
 ### Keys
 
-#### Right
-
-| C1 | C2 | C3 | C4 |
-| -- | -- | -- | -- |
- ⚪ | ( | ) | { |
- ⚪ | [ | ] | } |
-
 #### Left
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
- { | ( | ) | ⚪ |
- } | [ | ] | ⚪ |
+| { | ( | ) | ⚪ |
+| } | [ | ] | ⚪ |
+
+#### Right
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| ⚪ | ( | ) | { |
+| ⚪ | [ | ] | } |
 
 ## Layer: Navigation
 
 ### Keys
 
-#### Right
-
-| C1 | C2 | C3 | C4 |
-| -- | -- | -- | -- |
- Home | Up | End | Page Up |
- Left | Down | Right | Page Down |
-
 #### Left
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
- Page Up | Home | Up | End |
- Page Down | Left | Down | Right |
+| Page Up | Home | Up | End |
+| Page Down | Left | Down | Right |
+
+ #### Right
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| Home | Up | End | Page Up |
+| Left | Down | Right | Page Down |
 
 ## Layer: Mouse
 
 ### Keys
 
-#### Right
-
-| C1 | C2 | C3 | C4 |
-| -- | -- | -- | -- |
- Button 1 | Up | Button 2 | Wheel Up |
- Left | Down | Right | Wheel Down |
-
 #### Left
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
- Wheel Up | Button 2 | Up | Button 1 |
- Wheel Down | Left | Down | Right |
+| Wheel Up | Button 2 | Up | Button 1 |
+| Wheel Down | Left | Down | Right |
+
+#### Right
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| Button 1 | Up | Button 2 | Wheel Up |
+| Left | Down | Right | Wheel Down |
 
 ## Layer: Custom
 
 ### Keys
 
-#### Right
-
-| C1 | C2 | C3 | C4 |
-| -- | -- | -- | -- |
- Mute | Insert | Volume Up | ⚪ |
- Right Shift | Print Screen | Volume Down | ⚪ |
-
 #### Left
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
- ⚪ | Volume Up | Insert | Mute |
- ⚪ | Volume Down | Print Screen | Right Shift |
+| ⚪ | Volume Up | Insert | Mute |
+| ⚪ | Volume Down | Print Screen | Right Shift |
+
+#### Right
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| Mute | Insert | Volume Up | ⚪ |
+| Right Shift | Print Screen | Volume Down | ⚪ |
 
 ## Layer: Bluetooth
 
 ### Keys
 
-#### Right
-
-| C1 | C2 | C3 | C4 |
-| -- | -- | -- | -- |
- Profile 1 | Profile 2 | Profile 3 | ⚪ |
- Profile 4 | Profile 5 | Profile 6 | ⚪ |
-
 #### Left
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
- ⚪ | Profile 3 | Profile 2 | Profile 1 |
- ⚪ | Profile 6 | Profile 5 | Profile 4 |
+| ⚪ | Profile 3 | Profile 2 | Profile 1 |
+| ⚪ | Profile 6 | Profile 5 | Profile 4 |
 
+#### Right
+
+| C1 | C2 | C3 | C4 |
+| -- | -- | -- | -- |
+| Profile 1 | Profile 2 | Profile 3 | ⚪ |
+| Profile 4 | Profile 5 | Profile 6 | ⚪ |
