@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:24:00.990Z
+date: 2022-06-14T21:28:41.142Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -109,10 +109,10 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 | Character | Layer | Left | Right |
 | --------- | ----- | ---- | ----- |
-| 8 | Numbers | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
-| 0 | Numbers | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
-| 9 | Numbers | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
-| 7 | Numbers | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
+| 7 | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
+| 8 | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
+| 9 | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
+| 0 | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
 
 # Symbol Layer Actions
 
