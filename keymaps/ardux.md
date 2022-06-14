@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:09:04.208Z
+date: 2022-06-14T21:14:04.877Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -11,7 +11,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 # ardux
 `#comingsoon`
 
-## Global Actions
+## Global Combo Actions
 
 | Action | Left | Right |
 | ------ | ---- | ----- |
@@ -34,23 +34,21 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Default/Base/Start Layer Actions
 
-### Single Tap
-
-#### Left
+### Left Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | S | T | R | A |
 | O | I | Y | E |
 
-#### Right
+### Right Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | A | R | T | S |
 | E | Y | I | O |
 
-### Combos
+### Combo Actions
 
 | Action | Layer | Left | Right |
 | --------- | ----- | ---- | ----- |
@@ -80,23 +78,21 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Number Layer Actions
 
-### Keys
-
-#### Left
+### Left Single Tap
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | ⚪ | 3 | 2 | 1 |
 | ⚪ | 6 | 5 | 4 |
 
-#### Right
+### Right Single Tap
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | 1 | 2 | 3 | ⚪ |
 | 4 | 5 | 6 | ⚪ |
 
-### Combos
+### Combo Actions
 
 | Character | Layer | Left | Right |
 | --------- | ----- | ---- | ----- |
@@ -107,16 +103,14 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Symbol Layer Actions
 
-### Keys
-
-#### Left
+### Left Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | \` | ; | \ | ! |
 | = | - | ? | ⚪ |
 
- #### Right
+ #### Right Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
@@ -125,16 +119,14 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Parentheticals Layer Actions
 
-### Keys
-
-#### Left
+### Left Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | { | ( | ) | ⚪ |
 | } | [ | ] | ⚪ |
 
-#### Right
+### Right Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
@@ -143,16 +135,14 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Navigation Layer Actions
 
-### Keys
-
-#### Left
+### Left Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | Page Up | Home | Up | End |
 | Page Down | Left | Down | Right |
 
- #### Right
+ ### Right Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
@@ -161,16 +151,14 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Mouse Layer Actions
 
-### Keys
-
-#### Left
+### Left Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | Wheel Up | Button 2 | Up | Button 1 |
 | Wheel Down | Left | Down | Right |
 
-#### Right
+### Right Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
@@ -179,16 +167,14 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Custom Layer Actions
 
-### Keys
-
-#### Left
+### Left Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | ⚪ | Volume Up | Insert | Mute |
 | ⚪ | Volume Down | Print Screen | Right Shift |
 
-#### Right
+### Right Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
@@ -197,16 +183,14 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Bluetooth Layer Actions
 
-### Keys
-
-#### Left
+### Left Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
 | ⚪ | Profile 3 | Profile 2 | Profile 1 |
 | ⚪ | Profile 6 | Profile 5 | Profile 4 |
 
-#### Right
+### Right Single Tap Actions
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
