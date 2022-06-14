@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:04:16.359Z
+date: 2022-06-14T22:05:15.297Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -15,12 +15,15 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 - what is ardux and how this works?
 - keyboard support (zmk/qmk/kmk/etc)
-- code/github
 - define single tap conventions
 - define hold tap conventions
 - define combo conventions
 - add map for big ardux
 - add map for 40% ardux
+
+# Source Code
+
+All source code is available on GitHub at [https://github.com/arduxio/](https://github.com/arduxio/)
 
 # Standard (8 key) ardux
 
