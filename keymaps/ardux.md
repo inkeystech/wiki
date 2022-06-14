@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:28:41.142Z
+date: 2022-06-14T21:28:53.715Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -107,8 +107,8 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ## Combos
 
-| Character | Layer | Left | Right |
-| --------- | ----- | ---- | ----- |
+| Character | Left | Right |
+| --------- | ---- | ----- |
 | 7 | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
 | 8 | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
 | 9 | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
