@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:20:54.913Z
+date: 2022-06-14T21:24:00.990Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -10,6 +10,17 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 # ardux
 `#comingsoon`
+
+# Known Issues
+
+- define single tap conventions
+- define combo conventions
+- no hold tap for layer toggles documented
+- bluetooth layer is incorrect
+- needs full verification against qmk layers and /only/ zmk bt layer
+- make it clear this is *standard* ardux
+- add map for big ardux
+- add map for 40% ardux
 
 # Global Actions
 
