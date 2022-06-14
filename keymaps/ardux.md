@@ -2,18 +2,32 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:07:49.296Z
+date: 2022-06-14T22:22:31.903Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
 ---
 
-# ardux
-`#comingsoon`
+# What is ardux?
+
+ardux is a keyboard layout designed to be used one handed with as few as 8 keys or as many as 36 keys or two handed. The layout is setup to be a consistent way to type one handed that scales up or down based on need, environment and more.
+
+ardux aims to facilitate one handed typing (mobile needs, physical needs, etc) while also helping users to be efficient (>50wpm is possible one handed) as typists, even if they only use one hand for typing. The layout can be ultra-mobile (only 8 keys) or 'desk sized' (16-18 keys) or a full one *or* two handed layout (32-36 keys).
+
+## ardux has three major forms
+
+- **standard ardux**: 8 keys and ultra mobile and ultra accessible. this is fundamental form of ardux and is available in *all* ardux layouts ; if you're looking for mobile or general one handed typing, this is the form to look into
+- **big ardux**: 16-18 keys and designed to be a one handed desk keyboard layout ; it allows for easier typing of symbols and use of mod keys ; if you do a lot of typing, copy editing, programming or IT work, this is the form to look into
+- **40% ardux**: a full 40% layout that defaults to big ardux ; this form will let you flip between big ardux and a standard 40% layout that uses ardux to fill in any 'gaps' that are common with 40% layouts ; if you want to alternate between one and two handed typing, this is the form to look into
+
+## Additional Information
+
+Below you'll find additional details about the ardux layout and we have a Discord at [https://discord.gg/fGUjnUuAVQ](https://discord.gg/fGUjnUuAVQ) if you'd like to get in touch directly.
 
 # Known Issues
 
 - what is ardux and how this works?
+- remixes section
 - define single tap conventions
 - define hold tap conventions
 - define combo conventions
