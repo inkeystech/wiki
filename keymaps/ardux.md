@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-10T15:39:27.017Z
+date: 2022-06-14T19:36:19.882Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -19,23 +19,23 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ### Combos
 
-| Character | Layer | Combo |
-| --------- | ----- | ----- |
-| Layer - Mouse | Global | **Right**<br>⚫⚪⚫⚪<br>⚪⚫⚪⚪<br><br>**Left**<br>⚪⚫⚪⚫<br>⚪⚪⚫⚪<br> |
-| Shift | Global | **Right**<br>⚪⚫⚫⚫<br>⚫⚪⚪⚪<br><br>**Left**<br>⚫⚫⚫⚪<br>⚪⚪⚪⚫<br> |
-| Backspace | Global | **Right**<br>⚪⚫⚪⚪<br>⚫⚪⚪⚪<br><br>**Left**<br>⚪⚪⚫⚪<br>⚪⚪⚪⚫<br> |
-| Alt | Global | **Right**<br>⚪⚪⚪⚫<br>⚪⚪⚫⚪<br><br>**Left**<br>⚫⚪⚪⚪<br>⚪⚫⚪⚪<br> |
-| Bluetooth Clear Profile | Global | **Right**<br>⚪⚫⚫⚪<br>⚪⚫⚫⚪<br><br>**Left**<br>⚪⚫⚫⚪<br>⚪⚫⚫⚪<br> |
-| Layer - Navigation | Global | **Right**<br>⚪⚫⚪⚪<br>⚫⚪⚫⚪<br><br>**Left**<br>⚪⚪⚫⚪<br>⚪⚫⚪⚫<br> |
-| Shift Lock | Global | **Right**<br>⚪⚫⚪⚪<br>⚪⚫⚪⚪<br><br>**Left**<br>⚪⚪⚫⚪<br>⚪⚪⚫⚪<br> |
-| Space | Global | **Right**<br>⚪⚪⚪⚪<br>⚫⚫⚫⚫<br><br>**Left**<br>⚪⚪⚪⚪<br>⚫⚫⚫⚫<br> |
-| Layer - BT Selection | Global | **Right**<br>⚫⚪⚪⚫<br>⚫⚪⚪⚫<br><br>**Left**<br>⚫⚪⚪⚫<br>⚫⚪⚪⚫<br> |
-| GUI | Global | **Right**<br>⚪⚪⚪⚫<br>⚪⚫⚪⚪<br><br>**Left**<br>⚫⚪⚪⚪<br>⚪⚪⚫⚪<br> |
-| Control | Global | **Right**<br>⚪⚪⚪⚫<br>⚫⚪⚪⚪<br><br>**Left**<br>⚫⚪⚪⚪<br>⚪⚪⚪⚫<br> |
-| Escape | Global | **Right**<br>⚫⚫⚪⚪<br>⚪⚪⚪⚫<br><br>**Left**<br>⚪⚪⚫⚫<br>⚫⚪⚪⚪<br> |
-| Forward Delete | Global | **Right**<br>⚪⚫⚪⚪<br>⚪⚪⚫⚪<br><br>**Left**<br>⚪⚪⚫⚪<br>⚪⚫⚪⚪<br> |
-| Enter | Global | **Right**<br>⚫⚪⚪⚪<br>⚫⚪⚪⚪<br><br>**Left**<br>⚪⚪⚪⚫<br>⚪⚪⚪⚫<br> |
-| Tab | Global | **Right**<br>⚫⚫⚫⚪<br>⚪⚪⚪⚫<br><br>**Left**<br>⚪⚫⚫⚫<br>⚫⚪⚪⚪<br> |
+| Character | Layer | Left | Right |
+| --------- | ----- | ---- | ----- |
+| Layer - Mouse | Global | **Left**<br>⚪⚫⚪⚫<br>⚪⚪⚫⚪ | **Right**<br>⚫⚪⚫⚪<br>⚪⚫⚪⚪ |
+| Shift | Global | **Left**<br>⚫⚫⚫⚪<br>⚪⚪⚪⚫ | **Right**<br>⚪⚫⚫⚫<br>⚫⚪⚪⚪ |
+| Backspace | Global | **Left**<br>⚪⚪⚫⚪<br>⚪⚪⚪⚫ | **Right**<br>⚪⚫⚪⚪<br>⚫⚪⚪⚪ |
+| Alt | Global | **Left**<br>⚫⚪⚪⚪<br>⚪⚫⚪⚪ | **Right**<br>⚪⚪⚪⚫<br>⚪⚪⚫⚪ |
+| Bluetooth Clear Profile | Global | **Left**<br>⚪⚫⚫⚪<br>⚪⚫⚫⚪ | **Right**<br>⚪⚫⚫⚪<br>⚪⚫⚫⚪ |
+| Layer - Navigation | Global | **Left**<br>⚪⚪⚫⚪<br>⚪⚫⚪⚫ | **Right**<br>⚪⚫⚪⚪<br>⚫⚪⚫⚪ |
+| Shift Lock | Global | **Left**<br>⚪⚪⚫⚪<br>⚪⚪⚫⚪ | **Right**<br>⚪⚫⚪⚪<br>⚪⚫⚪⚪ |
+| Space | Global | **Left**<br>⚪⚪⚪⚪<br>⚫⚫⚫⚫ | **Right**<br>⚪⚪⚪⚪<br>⚫⚫⚫⚫ |
+| Layer - BT Selection | Global | **Left**<br>⚫⚪⚪⚫<br>⚫⚪⚪⚫ | **Right**<br>⚫⚪⚪⚫<br>⚫⚪⚪⚫ |
+| GUI | Global | **Left**<br>⚫⚪⚪⚪<br>⚪⚪⚫⚪ | **Right**<br>⚪⚪⚪⚫<br>⚪⚫⚪⚪ |
+| Control | Global | **Left**<br>⚫⚪⚪⚪<br>⚪⚪⚪⚫ | **Right**<br>⚪⚪⚪⚫<br>⚫⚪⚪⚪ |
+| Escape | Global | **Left**<br>⚪⚪⚫⚫<br>⚫⚪⚪⚪ | **Right**<br>⚫⚫⚪⚪<br>⚪⚪⚪⚫ |
+| Forward Delete | Global | **Left**<br>⚪⚪⚫⚪<br>⚪⚫⚪⚪ | **Right**<br>⚪⚫⚪⚪<br>⚪⚪⚫⚪ |
+| Enter | Global | **Left**<br>⚪⚪⚪⚫<br>⚪⚪⚪⚫ | **Right**<br>⚫⚪⚪⚪<br>⚫⚪⚪⚪ |
+| Tab | Global | **Left**<br>⚪⚫⚫⚫<br>⚫⚪⚪⚪ | **Right**<br>⚫⚫⚫⚪<br>⚪⚪⚪⚫ |
 ## Layer: Base
 
 ### Keys
