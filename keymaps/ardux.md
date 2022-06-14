@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T23:22:56.002Z
+date: 2022-06-14T23:30:00.964Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -302,6 +302,15 @@ Please refer to the standard ardux layout for the primary use and the below for 
 | Ctrl | @ | Del | = | Tab
 | | |MO(1)|*Enter*|*Space*|
 
+### Right Single Taps
+
+||||||
+|-|-|-|-|-|
+| - | A | R | T | S |
+| Shift | E | Y | I | O |
+| Tab | = | Del | @ | Ctrl |
+| *Space* | *Enter* | MO(1) | | |
+
 ## Symbol Layer Actions
 
 ### Left Single Taps
@@ -312,6 +321,15 @@ Please refer to the standard ardux layout for the primary use and the below for 
 | & | ( | ) | $ | \ |
 | * | [ | ] | % | \| |
 | | | ⚪ | ⚪ | ⚪ |
+
+### Right Single Taps
+
+||||||
+|-|-|-|-|-|
+| \` | # | { | } | ^ |
+| \ | $ | ( | ) | & |
+| \| | % | [ | ] | & |
+| ⚪ | ⚪ | ⚪ | | |
 
 ## Function Layer Actions
 
@@ -326,6 +344,16 @@ Please refer to the standard ardux layout for the primary use and the below for 
 | ⚪ | ⚪ | ⚪ | ⚪ | ⚫ |
 | | | ⚪ | ⚪ | ⚪ |
 
+#### Right
+
+||||||
+|-|-|-|-|-|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚫ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚫ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | | |
+
+
 ### Left Single Taps
 
 ||||||
@@ -334,3 +362,12 @@ Please refer to the standard ardux layout for the primary use and the below for 
 | F8 | F7 | F6 | F5 | ⚪ |
 | F12 | F11 | F10 | F9 | ⚪ |
 | | | ⚪ | ⚪ | ⚪ |
+
+### Right Single Taps
+
+||||||
+|-|-|-|-|-|
+| ⚪ | F1 | F2 | F3 | F4 |
+| ⚪ | F5 | F6 | F7 | F8 |
+| ⚪ | F9 | F10 | F11 | F12 |
+| ⚪ | ⚪ | ⚪ | | |
