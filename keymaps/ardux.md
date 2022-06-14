@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:22:31.903Z
+date: 2022-06-14T22:24:01.098Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -22,11 +22,12 @@ ardux aims to facilitate one handed typing (mobile needs, physical needs, etc) w
 
 ## Additional Information
 
-Below you'll find additional details about the ardux layout and we have a Discord at [https://discord.gg/fGUjnUuAVQ](https://discord.gg/fGUjnUuAVQ) if you'd like to get in touch directly.
+Below you'll find additional details about the ardux layout, including a full overview of the layout and its three forms. We have a Discord at [https://discord.gg/fGUjnUuAVQ](https://discord.gg/fGUjnUuAVQ) if you'd like to get in touch directly.
+
+Feedback via Discord is welcome.
 
 # Known Issues
 
-- what is ardux and how this works?
 - remixes section
 - define single tap conventions
 - define hold tap conventions
