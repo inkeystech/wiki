@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:59:42.417Z
+date: 2022-06-14T22:00:26.490Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -19,8 +19,6 @@ dateCreated: 2022-04-20T14:58:35.235Z
 - define single tap conventions
 - define combo conventions
 - no hold tap for layer toggles documented
-- needs full verification against qmk layers
-- make it clear this is *standard* ardux
 - add map for big ardux
 - add map for 40% ardux
 
