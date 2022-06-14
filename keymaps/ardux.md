@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:56:57.859Z
+date: 2022-06-14T21:59:42.417Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -19,8 +19,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 - define single tap conventions
 - define combo conventions
 - no hold tap for layer toggles documented
-- bluetooth layer is incorrect
-- needs full verification against qmk layers and /only/ zmk bt layer
+- needs full verification against qmk layers
 - make it clear this is *standard* ardux
 - add map for big ardux
 - add map for 40% ardux
@@ -205,12 +204,12 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
-| ⚪ | Profile 3 | Profile 2 | Profile 1 |
-| ⚪ | Profile 6 | Profile 5 | Profile 4 |
+| BT Output | Profile 3 | Profile 2 | Profile 1 |
+| USB Output | Profile 6 | Profile 5 | Profile 4 |
 
 ### Right Single Taps
 
 | C1 | C2 | C3 | C4 |
 | -- | -- | -- | -- |
-| Profile 1 | Profile 2 | Profile 3 | ⚪ |
-| Profile 4 | Profile 5 | Profile 6 | ⚪ |
+| Profile 1 | Profile 2 | Profile 3 | BT Output |
+| Profile 4 | Profile 5 | Profile 6 | USB Output |
