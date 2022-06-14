@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T21:02:39.626Z
+date: 2022-06-14T21:09:04.208Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -77,7 +77,8 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | W | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ |
 | X | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ |
 | Z | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ |
-## Layer: Numbers
+
+## Number Layer Actions
 
 ### Keys
 
@@ -103,7 +104,8 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | 0 | Numbers | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
 | 9 | Numbers | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
 | 7 | Numbers | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
-## Layer: Symbols
+
+## Symbol Layer Actions
 
 ### Keys
 
@@ -121,7 +123,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | ! | \ | ; | \` |
 | ⚪ | ? | - | = |
 
-## Layer: Parentheticals
+## Parentheticals Layer Actions
 
 ### Keys
 
@@ -139,7 +141,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | ⚪ | ( | ) | { |
 | ⚪ | [ | ] | } |
 
-## Layer: Navigation
+## Navigation Layer Actions
 
 ### Keys
 
@@ -157,7 +159,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | Home | Up | End | Page Up |
 | Left | Down | Right | Page Down |
 
-## Layer: Mouse
+## Mouse Layer Actions
 
 ### Keys
 
@@ -175,7 +177,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | Button 1 | Up | Button 2 | Wheel Up |
 | Left | Down | Right | Wheel Down |
 
-## Layer: Custom
+## Custom Layer Actions
 
 ### Keys
 
@@ -193,7 +195,7 @@ dateCreated: 2022-04-20T14:58:35.235Z
 | Mute | Insert | Volume Up | ⚪ |
 | Right Shift | Print Screen | Volume Down | ⚪ |
 
-## Layer: Bluetooth
+## Bluetooth Layer Actions
 
 ### Keys
 
