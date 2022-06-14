@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T23:30:00.964Z
+date: 2022-06-14T23:30:17.570Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -28,7 +28,6 @@ Feedback via Discord is welcome.
 
 # Known Issues
 
-- add map for big ardux
 - add map for 40% ardux
 
 # Supported Keyboards
