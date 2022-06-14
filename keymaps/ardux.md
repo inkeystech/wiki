@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T23:34:46.905Z
+date: 2022-06-14T23:54:06.445Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -373,7 +373,40 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 # Layout: 40% ardux (32-36 key)
 
+qwerty
+
+||||||||||||||||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| *Grave Escape* | Q | W | E | R | T | | | | Y | U | I | O | P | *Backspace* |
+| *Tab* | A | S | D | F | G | | | | H | J | K | L | ; | *Enter* |
+| *Control* | Z | X | C | V | B | | | | N | M | , | . | / <br> ~x3\ =\ \\~ | *'* |
+
+Left
+
+||||||||||||||||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| | | | MO(SYM) | *GUI* | *Space* | | | | *Space* <br> ~H\ Nav~ | *-* <br> ~H\ Func~ | = <br> ~x3\ @~ | | | |
+
+Right
+
+||||||||||||||||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| | | | = <br> ~x3\ @~ | *-* <br> ~H\ Func~ | *Space* <br> ~H\ Nav~ | | | | *Space* | *GUI* | MO(SYM) | | | |
+
 number/symbol
 
+||||||||||||||||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | *Grave* | F1 | F2 | F3 | F4 | F5 | | | | F6 | F7 | F8 | F9 | F10 | *Delete* |
-| ⚪ | 1 | 2 | 3 | 4 | 5
+| ⚪ | 1 | 2 | 3 | 4 | 5 | | | | 6 | 7 | 8 | 9 | 0 | *Insert* |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | F11 | | | | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | *Print Screen* |
+| | ||Alt|⚪|⚪||||⚪|⚪|Alt||||
+
+nav
+
+||||||||||||||||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| ⚪ | Page Up | Home | Up | End | ⚪ | | | | ⚪ | Home | Up | End | Page Up | *Delete* |
+| *Tab* | Page Down | Left | Down | Right | ⚪ | | | | ⚪ | Left | Down | Right | Page Down | ⚪ |
+| *Control* | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | | | | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | *Shift* |
+| | | | ⚪ | ⚪ | ⚪ | | | | ⚪ | ⚪ | ⚪ | | | |
