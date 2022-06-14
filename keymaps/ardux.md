@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T22:43:01.137Z
+date: 2022-06-14T22:43:19.203Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -28,9 +28,6 @@ Feedback via Discord is welcome.
 
 # Known Issues
 
-- define single tap conventions
-- define hold tap conventions
-- define combo conventions
 - add map for big ardux
 - add map for 40% ardux
 
