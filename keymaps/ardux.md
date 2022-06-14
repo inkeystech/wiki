@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T20:55:41.604Z
+date: 2022-06-14T21:02:39.626Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -11,32 +11,30 @@ dateCreated: 2022-04-20T14:58:35.235Z
 # ardux
 `#comingsoon`
 
-## Layer: Global
+## Global Actions
 
-### Keys
-
-### Combos
-
-| Character | Left | Right |
-| --------- | ---- | ----- |
-| Layer - Mouse | ⚪⚫⚪⚫<br>⚪⚪⚫⚪ | ⚫⚪⚫⚪<br>⚪⚫⚪⚪ |
-| Shift | ⚫⚫⚫⚪<br>⚪⚪⚪⚫ | ⚪⚫⚫⚫<br>⚫⚪⚪⚪ |
-| Backspace | ⚪⚪⚫⚪<br>⚪⚪⚪⚫ | ⚪⚫⚪⚪<br>⚫⚪⚪⚪ |
-| Alt | ⚫⚪⚪⚪<br>⚪⚫⚪⚪ | ⚪⚪⚪⚫<br>⚪⚪⚫⚪ |
-| Bluetooth Clear Profile | ⚪⚫⚫⚪<br>⚪⚫⚫⚪ | ⚪⚫⚫⚪<br>⚪⚫⚫⚪ |
-| Layer - Navigation | ⚪⚪⚫⚪<br>⚪⚫⚪⚫ | ⚪⚫⚪⚪<br>⚫⚪⚫⚪ |
-| Shift Lock | ⚪⚪⚫⚪<br>⚪⚪⚫⚪ | ⚪⚫⚪⚪<br>⚪⚫⚪⚪ |
+| Action | Left | Right |
+| ------ | ---- | ----- |
 | Space | ⚪⚪⚪⚪<br>⚫⚫⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚫⚫ |
-| Layer - BT Selection | ⚫⚪⚪⚫<br>⚫⚪⚪⚫ | ⚫⚪⚪⚫<br>⚫⚪⚪⚫ |
-| GUI | ⚫⚪⚪⚪<br>⚪⚪⚫⚪ | ⚪⚪⚪⚫<br>⚪⚫⚪⚪ |
-| Control | ⚫⚪⚪⚪<br>⚪⚪⚪⚫ | ⚪⚪⚪⚫<br>⚫⚪⚪⚪ |
-| Escape | ⚪⚪⚫⚫<br>⚫⚪⚪⚪ | ⚫⚫⚪⚪<br>⚪⚪⚪⚫ |
-| Forward Delete | ⚪⚪⚫⚪<br>⚪⚫⚪⚪ | ⚪⚫⚪⚪<br>⚪⚪⚫⚪ |
 | Enter | ⚪⚪⚪⚫<br>⚪⚪⚪⚫ | ⚫⚪⚪⚪<br>⚫⚪⚪⚪ |
 | Tab | ⚪⚫⚫⚫<br>⚫⚪⚪⚪ | ⚫⚫⚫⚪<br>⚪⚪⚪⚫ |
-## Layer: Base
+| Backspace | ⚪⚪⚫⚪<br>⚪⚪⚪⚫ | ⚪⚫⚪⚪<br>⚫⚪⚪⚪ |
+| Forward Delete | ⚪⚪⚫⚪<br>⚪⚫⚪⚪ | ⚪⚫⚪⚪<br>⚪⚪⚫⚪ |
+| Shift | ⚫⚫⚫⚪<br>⚪⚪⚪⚫ | ⚪⚫⚫⚫<br>⚫⚪⚪⚪ |
+| Shift Lock | ⚪⚪⚫⚪<br>⚪⚪⚫⚪ | ⚪⚫⚪⚪<br>⚪⚫⚪⚪ |
+| Caps Lock | ⚪⚪⚪⚫<br>⚫⚫⚫⚪ | ⚫⚪⚪⚪<br>⚪⚫⚫⚫ |
+| Control | ⚫⚪⚪⚪<br>⚪⚪⚪⚫ | ⚪⚪⚪⚫<br>⚫⚪⚪⚪ |
+| Alt | ⚫⚪⚪⚪<br>⚪⚫⚪⚪ | ⚪⚪⚪⚫<br>⚪⚪⚫⚪ |
+| GUI | ⚫⚪⚪⚪<br>⚪⚪⚫⚪ | ⚪⚪⚪⚫<br>⚪⚫⚪⚪ |
+| Escape | ⚪⚪⚫⚫<br>⚫⚪⚪⚪ | ⚫⚫⚪⚪<br>⚪⚪⚪⚫ |
+| Navigation Layer | ⚪⚪⚫⚪<br>⚪⚫⚪⚫ | ⚪⚫⚪⚪<br>⚫⚪⚫⚪ |
+| Mouse Layer | ⚪⚫⚪⚫<br>⚪⚪⚫⚪ | ⚫⚪⚫⚪<br>⚪⚫⚪⚪ |
+| BT Layer | ⚫⚪⚪⚫<br>⚫⚪⚪⚫ | ⚫⚪⚪⚫<br>⚫⚪⚪⚫ |
+| Clear Bluetooth Profile | ⚪⚫⚫⚪<br>⚪⚫⚫⚪ | ⚪⚫⚫⚪<br>⚪⚫⚫⚪ |
 
-### Keys
+## Default/Base/Start Layer Actions
+
+### Single Tap
 
 #### Left
 
@@ -54,32 +52,31 @@ dateCreated: 2022-04-20T14:58:35.235Z
 
 ### Combos
 
-| Character | Layer | Left | Right |
+| Action | Layer | Left | Right |
 | --------- | ----- | ---- | ----- |
-| D | Base | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ |
-| Z | Base | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ |
-| ' | Base | ⚪⚪⚪⚫<br>⚪⚫⚫⚪ | ⚫⚪⚪⚪<br>⚪⚫⚫⚪ |
-| B | Base | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ |
-| / | Base | ⚪⚪⚪⚫<br>⚫⚪⚪⚪ | ⚫⚪⚪⚪<br>⚪⚪⚪⚫ |
-| W | Base | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ |
-| , | Base | ⚪⚪⚪⚫<br>⚪⚫⚪⚪ | ⚫⚪⚪⚪<br>⚪⚪⚫⚪ |
-| J | Base | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ |
-| F | Base | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
-| L | Base | ⚪⚪⚪⚪<br>⚪⚫⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚫⚪ |
-| X | Base | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ |
-| U | Base | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
-| Caps Lock | Base | ⚪⚪⚪⚫<br>⚫⚫⚫⚪ | ⚫⚪⚪⚪<br>⚪⚫⚫⚫ |
-| P | Base | ⚪⚪⚪⚪<br>⚫⚫⚪⚫ | ⚪⚪⚪⚪<br>⚫⚪⚫⚫ |
-| V | Base | ⚫⚪⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚪⚫<br>⚪⚪⚪⚪ |
-| . | Base | ⚪⚪⚪⚫<br>⚪⚪⚫⚪ | ⚫⚪⚪⚪<br>⚪⚫⚪⚪ |
-| ! | Base | ⚪⚫⚪⚪<br>⚪⚫⚪⚪ | ⚪⚪⚫⚪<br>⚪⚪⚫⚪ |
-| H | Base | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ |
-| G | Base | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
-| K | Base | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ |
-| N | Base | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ |
-| M | Base | ⚪⚪⚪⚪<br>⚫⚫⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚫⚫ |
-| C | Base | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
-| Q | Base | ⚫⚫⚪⚫<br>⚪⚪⚪⚪ | ⚫⚪⚫⚫<br>⚪⚪⚪⚪ |
+| , | ⚪⚪⚪⚫<br>⚪⚫⚪⚪ | ⚫⚪⚪⚪<br>⚪⚪⚫⚪ |
+| ! | ⚪⚫⚪⚪<br>⚪⚫⚪⚪ | ⚪⚪⚫⚪<br>⚪⚪⚫⚪ |
+| . | ⚪⚪⚪⚫<br>⚪⚪⚫⚪ | ⚫⚪⚪⚪<br>⚪⚫⚪⚪ |
+| ' | ⚪⚪⚪⚫<br>⚪⚫⚫⚪ | ⚫⚪⚪⚪<br>⚪⚫⚫⚪ |
+| / | ⚪⚪⚪⚫<br>⚫⚪⚪⚪ | ⚫⚪⚪⚪<br>⚪⚪⚪⚫ |
+| B | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ |
+| C | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
+| D | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ |
+| F | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
+| G | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
+| H | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ |
+| J | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ |
+| K | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ |
+| L | ⚪⚪⚪⚪<br>⚪⚫⚫⚫ | ⚪⚪⚪⚪<br>⚫⚫⚫⚪ |
+| M | ⚪⚪⚪⚪<br>⚫⚫⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚫⚫ |
+| N | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ |
+| P | ⚪⚪⚪⚪<br>⚫⚫⚪⚫ | ⚪⚪⚪⚪<br>⚫⚪⚫⚫ |
+| Q | ⚫⚫⚪⚫<br>⚪⚪⚪⚪ | ⚫⚪⚫⚫<br>⚪⚪⚪⚪ |
+| U | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
+| V | ⚫⚪⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚪⚫<br>⚪⚪⚪⚪ |
+| W | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ |
+| X | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ |
+| Z | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ |
 ## Layer: Numbers
 
 ### Keys
