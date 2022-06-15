@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-06-14T23:54:06.445Z
+date: 2022-06-15T00:02:07.852Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -25,10 +25,6 @@ ardux aims to facilitate one handed typing (mobile needs, physical needs, etc) w
 Below you'll find additional details about the ardux layout, including a full overview of the layout and its three forms. We have a Discord at [https://discord.gg/fGUjnUuAVQ](https://discord.gg/fGUjnUuAVQ) if you'd like to get in touch directly.
 
 Feedback via Discord is welcome.
-
-# Known Issues
-
-- add map for 40% ardux
 
 # Supported Keyboards
 
@@ -71,6 +67,12 @@ We also use tables to illustrate which keys to press to activate a combo.
 ### *Italic* function names
 
 We use *italics* to denote a key / function that is *optional* for inclusion on a physical keyboard. There are a number of keyboard options available in similar sizes. Due to clustering of keyboard sizes, the big and 40% ardux layouts make certain functions *optional* to be compatible with more keyboards.
+
+### Subscripts
+
+We use subscripts to denote secondary functions assigned to keys. If there is a `x` preceeding a number then `=` and a value ; it means you tap that key the number of times and youll get the value after the `=`. We have setup multi-tap functions for some keys.
+
+We also use subscripts with an `H` at the start. This means to hold the key to get the shown function. We also have setup hold-tap functions for some keys.
 
 ## Key Icons
 
@@ -373,7 +375,11 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 # Layout: 40% ardux (32-36 key)
 
-qwerty
+This is the two handed form of ardux. It inclues *all* of big ardux *and* *all* of standard ardux. This layout is designed to allow you to flip between one and two handed typing easly and using a single 40% keyboard.
+
+Please refer to the standard and big ardux layout for the primary use and the below for the extra key mappings and addional layer detail.
+
+## Base Layer Actions (QWERTY)
 
 ||||||||||||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -381,28 +387,28 @@ qwerty
 | *Tab* | A | S | D | F | G | | | | H | J | K | L | ; | *Enter* |
 | *Control* | Z | X | C | V | B | | | | N | M | , | . | / <br> ~x3\ =\ \\~ | *'* |
 
-Left
+### Left Thumb Row
 
 ||||||||||||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | | | | MO(SYM) | *GUI* | *Space* | | | | *Space* <br> ~H\ Nav~ | *-* <br> ~H\ Func~ | = <br> ~x3\ @~ | | | |
 
-Right
+### Right Thumb Row
 
 ||||||||||||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | | | | = <br> ~x3\ @~ | *-* <br> ~H\ Func~ | *Space* <br> ~H\ Nav~ | | | | *Space* | *GUI* | MO(SYM) | | | |
 
-number/symbol
+## Number/Symbol Layer Actions
 
 ||||||||||||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 | *Grave* | F1 | F2 | F3 | F4 | F5 | | | | F6 | F7 | F8 | F9 | F10 | *Delete* |
 | ⚪ | 1 | 2 | 3 | 4 | 5 | | | | 6 | 7 | 8 | 9 | 0 | *Insert* |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | F11 | | | | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | *Print Screen* |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | F11 | | | | F12 | ⚪ | ⚪ | ⚪ | ⚪ | *Print Screen* |
 | | ||Alt|⚪|⚪||||⚪|⚪|Alt||||
 
-nav
+## Navigation Layer Actions
 
 ||||||||||||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
