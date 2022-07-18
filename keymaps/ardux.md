@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-07-18T20:19:03.005Z
+date: 2022-07-18T20:21:21.231Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -423,10 +423,10 @@ Spaces are left for open keys, for pattern familiarization.
 | U      | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | Top of the U| 
 | N      | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | One less than M| 
 | W      | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ | Like the top corners of a W | 
-| V      | ⚪⚫⚪⚫<br>⚪⚪⚪⚪ | Like the top of the V | 
 | B      | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ | Two holes, on bottom | 
-| H      | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ | Like the bottom of an h| 
+| V      | ⚪⚫⚪⚫<br>⚪⚪⚪⚪ | Like the top of the V | 
 | K      | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ | Like the bottom of the K | 
+| H      | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ | Like the bottom of an h| 
 | D      | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ | Opposite of Low, "Down Low". Like L but on top.| 
 | Q      | ⚫⚪⚫⚫<br>⚪⚪⚪⚪ | | 
 | X      | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ | It's like Z, but less keys| 
