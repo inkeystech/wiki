@@ -2,7 +2,7 @@
 title: The Paintbrush
 description: General documentation for the paintbrush mini keyboard
 published: true
-date: 2022-07-19T19:20:00.954Z
+date: 2022-07-19T19:20:45.168Z
 tags: hardware, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T15:10:13.197Z
@@ -23,6 +23,7 @@ dateCreated: 2022-04-20T15:10:13.197Z
 ## Parts Required
 
 - 8x Key Switches (MX or Kailh Choc)
+- 8x Keycaps
 - 1x Controller
   - [Nice!Nano](https://nicekeyboards.com/nice-nano/) (Bluetooth for wireless)
   - [nRFMicro](https://github.com/joric/nrfmicro/wiki)
