@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-07-19T15:56:54.067Z
+date: 2022-07-19T15:57:25.690Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -11,7 +11,6 @@ dateCreated: 2022-04-20T19:52:36.779Z
 ## Service Providers
 
 - NameCheap registrar
-- Mailgun for smtp sending
 - Vultr for VPS
 - Backblaze B2 for encrypted restic backups
 - Discord for chat
