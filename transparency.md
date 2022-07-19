@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-07-19T16:00:23.352Z
+date: 2022-07-19T16:21:07.110Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -12,7 +12,6 @@ dateCreated: 2022-04-20T19:52:36.779Z
 
 - NameCheap registrar
 - Vultr for VPS
-- Backblaze B2 for encrypted restic backups
 - Discord for chat
 - GitHub for git repository hosting and GitHub pages
 
@@ -22,12 +21,10 @@ dateCreated: 2022-04-20T19:52:36.779Z
 - Docker
 - js.wiki
 - jekyll
-- restic
 
 ## Backups
 
 - js.wiki auto-backup/export to GitHub (public)
-- restic (encrypted, private) to BackBlaze B2
 
 ## 'Ownership'
 
@@ -36,10 +33,7 @@ Below you'll find a breakdown of who has 'owner' rights to various accounts/serv
 ### KemoNine
 
 - NameCheap
-- Backblaze
 - Vultr
-- GitHub org
-- GitHub repos
 - Social login integrations
 - js.wiki
 
