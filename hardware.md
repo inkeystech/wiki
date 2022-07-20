@@ -2,7 +2,7 @@
 title: Hardware
 description: Hardware related information
 published: true
-date: 2022-07-19T20:09:25.572Z
+date: 2022-07-20T19:05:14.113Z
 tags: hardware, wip
 editor: markdown
 dateCreated: 2022-04-20T17:26:31.412Z
@@ -20,7 +20,7 @@ A [roughly] credit card sized keyboard with 8 keys
 
 ## > 15 keys
 
-> [Big Ardux Compatible](/en/big-ardux)
+> [Big Ardux Compatible](/hardware/big-ardux)
 Keyboards 16-18 key keyboards that are compatible with the Big Ardux layout
 
 
