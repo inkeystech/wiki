@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-07-18T20:22:02.577Z
+date: 2022-07-22T16:28:59.859Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -82,6 +82,8 @@ We use the `⚪` symbol to denote a key that is _not_ pressed and a `⚫` symbol
 
 We also use the `⚪` symbol to denote a key that is _not_ mapped to a function.
 
+We use the `🔘` symbol to denote a key is _held_ to activate a layer so that another key may be pressed.
+
 # Layout: Standard ardux (8 key)
 
 This is the standard form of ardux. This layout is 100% present in both big ardux and 40% ardux.
@@ -123,7 +125,7 @@ This is the standard form of ardux. This layout is 100% present in both big ardu
 | S   | T   | R   | A   |
 | O   | I   | Y   | E   |
 
-*Alphabetically Sorted*
+_Alphabetically Sorted_
 
 | Action | Left                 |
 | ------ | -------------------- |
@@ -159,7 +161,7 @@ This is the standard form of ardux. This layout is 100% present in both big ardu
 | '      | ⚪⚪⚪⚫<br>⚪⚫⚫⚪ |
 | /      | ⚪⚪⚪⚫<br>⚫⚪⚪⚪ |
 
-*Key Sorted:* 
+_Key Sorted:_
 
 This list is sorted in this order:
 
@@ -172,92 +174,115 @@ Spaces are left for open keys, for pattern familiarization.
 | Action | Left                 | Notes |
 | ------ | -------------------- |- |
 | S      | ⚫⚪⚪⚪<br>⚪⚪⚪⚪ | |  
-| T      | ⚪⚫⚪⚪<br>⚪⚪⚪⚪ | | 
-| R      | ⚪⚪⚫⚪<br>⚪⚪⚪⚪ | | 
-| A      | ⚪⚪⚪⚫<br>⚪⚪⚪⚪ | | 
-| O      | ⚪⚪⚪⚪<br>⚫⚪⚪⚪ | | 
-| I      | ⚪⚪⚪⚪<br>⚪⚫⚪⚪ | | 
-| Y      | ⚪⚪⚪⚪<br>⚪⚪⚫⚪ | | 
-| E      | ⚪⚪⚪⚪<br>⚪⚪⚪⚫ | | 
-| J      | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ | | 
-| G      | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | Top two teeth, Gums | 
-| F      | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | Top of an F | 
-| N      | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ | One less than M| 
-| U      | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | Top of the U| 
-| C      | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | Bottom of the C| 
-| V      | ⚫⚪⚫⚪<br>⚪⚪⚪⚪ | Like the top of the V | 
-| K      | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ | Like the bottom of the K | 
-| H      | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ | Like the bottom of an h| 
-| W      | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ | Like the top corners of a W | 
-| B      | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ | Two holes, on bottom | 
-| X      | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ | It's like Z, but less keys| 
-| D      | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ | Opposite of Low, "Down Low". Like L but on top.| 
-| M      | ⚪⚪⚪⚪<br>⚫⚫⚫⚪ | One more than N| 
-| L      | ⚪⚪⚪⚪<br>⚪⚫⚫⚫ | Like the long bottom of an L | 
-| Q      | ⚫⚫⚪⚫<br>⚪⚪⚪⚪ | | 
-| P      | ⚪⚪⚪⚪<br>⚫⚫⚪⚫ | | 
-| Z      | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ | | 
-| !      | ⚪⚫⚪⚪<br>⚪⚫⚪⚪ | | 
-| /      | ⚪⚪⚪⚫<br>⚫⚪⚪⚪ | | 
-| .      | ⚪⚪⚪⚫<br>⚪⚪⚫⚪ | | 
-| ,      | ⚪⚪⚪⚫<br>⚪⚫⚪⚪ | | 
-| '      | ⚪⚪⚪⚫<br>⚪⚫⚫⚪ | | 
-
+| T      | ⚪⚫⚪⚪<br>⚪⚪⚪⚪ | |
+| R      | ⚪⚪⚫⚪<br>⚪⚪⚪⚪ | |
+| A      | ⚪⚪⚪⚫<br>⚪⚪⚪⚪ | |
+| O      | ⚪⚪⚪⚪<br>⚫⚪⚪⚪ | |
+| I      | ⚪⚪⚪⚪<br>⚪⚫⚪⚪ | |
+| Y      | ⚪⚪⚪⚪<br>⚪⚪⚫⚪ | |
+| E      | ⚪⚪⚪⚪<br>⚪⚪⚪⚫ | |
+| J      | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ | |
+| G      | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | Top two teeth, Gums |
+| F      | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | Top of an F |
+| N      | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ | One less than M|
+| U      | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | Top of the U|
+| C      | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | Bottom of the C|
+| V      | ⚫⚪⚫⚪<br>⚪⚪⚪⚪ | Like the top of the V |
+| K      | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ | Like the bottom of the K |
+| H      | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ | Like the bottom of an h|
+| W      | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ | Like the top corners of a W |
+| B      | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ | Two holes, on bottom |
+| X      | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ | It's like Z, but less keys|
+| D      | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ | Opposite of Low, "Down Low". Like L but on top.|
+| M      | ⚪⚪⚪⚪<br>⚫⚫⚫⚪ | One more than N|
+| L      | ⚪⚪⚪⚪<br>⚪⚫⚫⚫ | Like the long bottom of an L |
+| Q      | ⚫⚫⚪⚫<br>⚪⚪⚪⚪ | |
+| P      | ⚪⚪⚪⚪<br>⚫⚫⚪⚫ | |
+| Z      | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ | |
+| !      | ⚪⚫⚪⚪<br>⚪⚫⚪⚪ | |
+| /      | ⚪⚪⚪⚫<br>⚫⚪⚪⚪ | |
+| .      | ⚪⚪⚪⚫<br>⚪⚪⚫⚪ | |
+| ,      | ⚪⚪⚪⚫<br>⚪⚫⚪⚪ | |
+| '      | ⚪⚪⚪⚫<br>⚪⚫⚫⚪ | |
 
 ## Parentheticals Layer Actions
 
 To activate the parentheticals layer, hold `A`
 | Key | Right                |
 | --- | -------------------- |
-| A   | ⚪⚪⚪⚫<br>⚪⚪⚪⚪ |
+| A   | ⚪⚪⚪🔘<br>⚪⚪⚪⚪ |
 
-*Actions*
+**Table View:**
 
 | C1  | C2  | C3  | C4  |
 | --- | --- | --- | --- |
 | {   | (   | )   | ⚫  |
 | }   | [   | ]   | ⚪  |
 
+**List View:**
+
+| Character | Left                 |
+| --------- | -------------------- |
+| {         | ⚫⚪⚪🔘<br>⚪⚪⚪⚪ |
+| (         | ⚪⚫⚪🔘<br>⚪⚪⚪⚪ |
+| )         | ⚪⚪⚫🔘<br>⚪⚪⚪⚪ |
+| }         | ⚪⚪⚪🔘<br>⚫⚪⚪⚪ |
+| [         | ⚪⚪⚪🔘<br>⚪⚫⚪⚪ |
+| ]         | ⚪⚪⚪🔘<br>⚪⚪⚫⚪ |
+
 ## Number Layer Actions
 
 To activate the number layer, hold `S`
 | Key | Right                |
 | --- | -------------------- |
-| S   | ⚫⚪⚪⚪<br>⚪⚪⚪⚪ |
+| S   | 🔘⚪⚪⚪<br>⚪⚪⚪⚪ |
 
 **Table View:**
 
 | C1  | C2  | C3  | C4  |
 | --- | --- | --- | --- |
-| ⚫  | 3   | 2   | 1   |
+| 🔘  | 3   | 2   | 1   |
 | ⚪  | 6   | 5   | 4   |
 
 **List View:**
 
 | Character | Left                 |
 | --------- | -------------------- |
-| 1         | ⚪⚪⚪⚫<br>⚪⚪⚪⚪ |
-| 2         | ⚪⚪⚫⚪<br>⚪⚪⚪⚪ |
-| 3         | ⚪⚫⚪⚪<br>⚪⚪⚪⚪ |
-| 4         | ⚪⚪⚪⚪<br>⚪⚪⚪⚫ |
-| 5         | ⚪⚪⚪⚪<br>⚪⚪⚫⚪ |
-| 6         | ⚪⚪⚪⚪<br>⚪⚫⚪⚪ |
-| 7         | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ |
-| 8         | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
-| 9         | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ |
-| 0         | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
+| 1         | 🔘⚪⚪⚫<br>⚪⚪⚪⚪ |
+| 2         | 🔘⚪⚫⚪<br>⚪⚪⚪⚪ |
+| 3         | 🔘⚫⚪⚪<br>⚪⚪⚪⚪ |
+| 4         | 🔘⚪⚪⚪<br>⚪⚪⚪⚫ |
+| 5         | 🔘⚪⚪⚪<br>⚪⚪⚫⚪ |
+| 6         | 🔘⚪⚪⚪<br>⚪⚫⚪⚪ |
+| 7         | 🔘⚪⚫⚫<br>⚪⚪⚪⚪ |
+| 8         | 🔘⚫⚫⚪<br>⚪⚪⚪⚪ |
+| 9         | 🔘⚪⚪⚪<br>⚪⚪⚫⚫ |
+| 0         | 🔘⚪⚪⚪<br>⚪⚫⚫⚪ |
 
 ## Custom Layer Actions
 
 To activate the custom layer, hold `O`
 | Action | Right                |
 | ------ | -------------------- |
-| O      | ⚪⚪⚪⚪<br>⚫⚪⚪⚪ |
+| O      | ⚪⚪⚪⚪<br>🔘⚪⚪⚪ |
+
+**Table View:**
 
 | C1  | C2          | C3           | C4          |
 | --- | ----------- | ------------ | ----------- |
 | ⚪  | Volume Up   | Insert       | Mute        |
 | ⚪  | Volume Down | Print Screen | Right Shift |
+
+**List View:**
+
+| Character    | Left                  |
+| ------------ | --------------------- |
+| Volume Up    | ⚪⚫⚪⚪<br>🔘⚪⚪⚪ |
+| Insert       | ⚪⚪⚫⚪<br>🔘⚪⚪⚪ |
+| Mute         | ⚪⚪⚪⚫<br>🔘⚪⚪⚪ |
+| Volume Down  | ⚪⚪⚪⚪<br>🔘⚫⚪⚪ |
+| Print Screen | ⚪⚪⚪⚪<br>🔘⚪⚫⚪ |
+| Right Shift  | ⚪⚪⚪⚪<br>🔘⚪⚪⚫ |
 
 ## Symbol Layer Actions
 
@@ -265,15 +290,26 @@ To activate the symbol layer, hold `E`
 
 | Action | Right                |
 | ------ | -------------------- |
-| E      | ⚪⚪⚪⚪<br>⚪⚪⚪⚫ |
+| E      | ⚪⚪⚪⚪<br>⚪⚪⚪🔘 |
 
-*Actions*
+**Table View:**
 
 | C1  | C2  | C3  | C4  |
 | --- | --- | --- | --- |
 | \`  | ;   | \   | !   |
 | =   | -   | ?   | ⚫  |
 
+**List View:**
+
+| Character | Left                  |
+| --------- | --------------------- |
+| \`        | ⚫⚪⚪⚪<br>⚪⚪⚪🔘 |
+| ;         | ⚪⚫⚪⚪<br>⚪⚪⚪🔘 |
+| \         | ⚪⚪⚫⚪<br>⚪⚪⚪🔘 |
+| !         | ⚪⚪⚪⚫<br>⚪⚪⚪🔘 |
+| =         | ⚪⚪⚪⚪<br>⚫⚪⚪🔘 |
+| -         | ⚪⚪⚪⚪<br>⚪⚫⚪🔘 |
+| ?         | ⚪⚪⚪⚪<br>⚪⚪⚫🔘 |
 
 ## Mouse Layer Actions
 
@@ -284,7 +320,7 @@ To toggle the Mouse layer, tap `T Y A`
 | ⚪  | ⚫  | ⚪  | ⚫  |
 | ⚪  | ⚪  | ⚫  | ⚪  |
 
-*Actions*
+_Actions_
 
 | C1         | C2       | C3   | C4       |
 | ---------- | -------- | ---- | -------- |
@@ -300,7 +336,7 @@ To toggle the Navigation layer, tap `R I E`
 | ⚪  | ⚪  | ⚫  | ⚪  |
 | ⚪  | ⚫  | ⚪  | ⚫  |
 
-*Actions*
+_Actions_
 
 | C1        | C2   | C3   | C4    |
 | --------- | ---- | ---- | ----- |
@@ -316,7 +352,7 @@ To toggle the Bluetooth layer, tap `S O A E`
 | ⚫  | ⚪  | ⚪  | ⚫  |
 | ⚫  | ⚪  | ⚪  | ⚫  |
 
-*Actions*
+_Actions_
 
 | C1         | C2        | C3        | C4        |
 | ---------- | --------- | --------- | --------- |
@@ -360,7 +396,7 @@ To toggle the Bluetooth layer, tap `S O A E`
 | A   | R   | T   | S   |
 | E   | Y   | I   | O   |
 
-*Alphabetically Sorted*
+_Alphabetically Sorted_
 
 | Action | Right                |
 | ------ | -------------------- |
@@ -396,7 +432,7 @@ To toggle the Bluetooth layer, tap `S O A E`
 | '      | ⚫⚪⚪⚪<br>⚪⚫⚫⚪ |
 | /      | ⚫⚪⚪⚪<br>⚪⚪⚪⚫ |
 
-*Key Sorted:* 
+_Key Sorted:_
 
 This list is sorted in this order:
 
@@ -408,103 +444,145 @@ Spaces are left for open keys, for pattern familiarization.
 
 | Action | Right                 | Notes |
 | ------ | -------------------- |- |
-| A      | ⚫⚪⚪⚪<br>⚪⚪⚪⚪ | | 
-| R      | ⚪⚫⚪⚪<br>⚪⚪⚪⚪ | | 
-| T      | ⚪⚪⚫⚪<br>⚪⚪⚪⚪ | | 
+| A      | ⚫⚪⚪⚪<br>⚪⚪⚪⚪ | |
+| R      | ⚪⚫⚪⚪<br>⚪⚪⚪⚪ | |
+| T      | ⚪⚪⚫⚪<br>⚪⚪⚪⚪ | |
 | S      | ⚪⚪⚪⚫<br>⚪⚪⚪⚪ | |  
-| E      | ⚪⚪⚪⚪<br>⚫⚪⚪⚪ | | 
-| Y      | ⚪⚪⚪⚪<br>⚪⚫⚪⚪ | | 
-| I      | ⚪⚪⚪⚪<br>⚪⚪⚫⚪ | | 
-| O      | ⚪⚪⚪⚪<br>⚪⚪⚪⚫ | | 
-| F      | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ | Top of an F | 
-| G      | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | Top two teeth, Gums | 
-| J      | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | | 
-| C      | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ | Bottom of the C| 
-| U      | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | Top of the U| 
-| N      | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | One less than M| 
-| W      | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ | Like the top corners of a W | 
-| B      | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ | Two holes, on bottom | 
-| V      | ⚪⚫⚪⚫<br>⚪⚪⚪⚪ | Like the top of the V | 
-| K      | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ | Like the bottom of the K | 
-| H      | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ | Like the bottom of an h| 
-| D      | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ | Opposite of Low, "Down Low". Like L but on top.| 
-| Q      | ⚫⚪⚫⚫<br>⚪⚪⚪⚪ | | 
-| X      | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ | It's like Z, but less keys| 
-| L      | ⚪⚪⚪⚪<br>⚫⚫⚫⚪ | Like the long bottom of an L | 
-| P      | ⚪⚪⚪⚪<br>⚫⚪⚫⚫ | | 
-| M      | ⚪⚪⚪⚪<br>⚪⚫⚫⚫ | One more than N| 
-| Z      | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ | | 
-| !      | ⚪⚪⚫⚪<br>⚪⚪⚫⚪ | | 
-| /      | ⚫⚪⚪⚪<br>⚪⚪⚪⚫ | | 
-| .      | ⚫⚪⚪⚪<br>⚪⚫⚪⚪ | | 
-| ,      | ⚫⚪⚪⚪<br>⚪⚪⚫⚪ | | 
-| '      | ⚫⚪⚪⚪<br>⚪⚫⚫⚪ | | 
-
+| E      | ⚪⚪⚪⚪<br>⚫⚪⚪⚪ | |
+| Y      | ⚪⚪⚪⚪<br>⚪⚫⚪⚪ | |
+| I      | ⚪⚪⚪⚪<br>⚪⚪⚫⚪ | |
+| O      | ⚪⚪⚪⚪<br>⚪⚪⚪⚫ | |
+| F      | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ | Top of an F |
+| G      | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ | Top two teeth, Gums |
+| J      | ⚪⚪⚫⚫<br>⚪⚪⚪⚪ | |
+| C      | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ | Bottom of the C|
+| U      | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ | Top of the U|
+| N      | ⚪⚪⚪⚪<br>⚪⚪⚫⚫ | One less than M|
+| W      | ⚫⚪⚪⚫<br>⚪⚪⚪⚪ | Like the top corners of a W |
+| B      | ⚪⚪⚪⚪<br>⚫⚪⚪⚫ | Two holes, on bottom |
+| V      | ⚪⚫⚪⚫<br>⚪⚪⚪⚪ | Like the top of the V |
+| K      | ⚪⚪⚪⚪<br>⚪⚫⚪⚫ | Like the bottom of the K |
+| H      | ⚪⚪⚪⚪<br>⚫⚪⚫⚪ | Like the bottom of an h|
+| D      | ⚫⚫⚫⚪<br>⚪⚪⚪⚪ | Opposite of Low, "Down Low". Like L but on top.|
+| Q      | ⚫⚪⚫⚫<br>⚪⚪⚪⚪ | |
+| X      | ⚪⚫⚫⚫<br>⚪⚪⚪⚪ | It's like Z, but less keys|
+| L      | ⚪⚪⚪⚪<br>⚫⚫⚫⚪ | Like the long bottom of an L |
+| P      | ⚪⚪⚪⚪<br>⚫⚪⚫⚫ | |
+| M      | ⚪⚪⚪⚪<br>⚪⚫⚫⚫ | One more than N|
+| Z      | ⚫⚫⚫⚫<br>⚪⚪⚪⚪ | |
+| !      | ⚪⚪⚫⚪<br>⚪⚪⚫⚪ | |
+| /      | ⚫⚪⚪⚪<br>⚪⚪⚪⚫ | |
+| .      | ⚫⚪⚪⚪<br>⚪⚫⚪⚪ | |
+| ,      | ⚫⚪⚪⚪<br>⚪⚪⚫⚪ | |
+| '      | ⚫⚪⚪⚪<br>⚪⚫⚫⚪ | |
 
 ## Parentheticals Layer Actions
 
 To activate the parentheticals layer, hold `A`
 | Action | Right                |
 | ------ | -------------------- |
-| A      | ⚫⚪⚪⚪<br>⚪⚪⚪⚪ |
+| A      | 🔘⚪⚪⚪<br>⚪⚪⚪⚪ |
 
-*Actions*
+**Table View:**
 
 | C1  | C2  | C3  | C4  |
 | --- | --- | --- | --- |
-| ⚪  | (   | )   | {   |
+| 🔘  | (   | )   | {   |
 | ⚪  | [   | ]   | }   |
+
+
+**List View:**
+
+| Character | Right                 |
+| --------- | -------------------- |
+| (         | 🔘⚫⚪⚪<br>⚪⚪⚪⚪ |
+| )         | 🔘⚪⚫⚪<br>⚪⚪⚪⚪ |
+| {         | 🔘⚪⚪⚫<br>⚪⚪⚪⚪ |
+| [         | 🔘⚪⚪⚪<br>⚫⚪⚪⚪ |
+| ]         | 🔘⚪⚪⚪<br>⚪⚫⚪⚪ |
+| }         | 🔘⚪⚪⚪<br>⚪⚪⚫⚪ |
+
 
 ## Number Layer Actions
 
 To activate the number layer, hold `S`
 | Action | Right                |
 | ------ | -------------------- |
-| S      | ⚪⚪⚪⚫<br>⚪⚪⚪⚪ |
+| S      | ⚪⚪⚪🔘<br>⚪⚪⚪⚪ |
 
 **Table View:**
 
 | C1  | C2  | C3  | C4  |
 | --- | --- | --- | --- |
-| 1   | 2   | 3   | ⚪  |
+| 1   | 2   | 3   | 🔘  |
 | 4   | 5   | 6   | ⚪  |
 
 **List View:**
 
-| Character | Right                |
-| --------- | -------------------- |
-| 7         | ⚫⚫⚪⚪<br>⚪⚪⚪⚪ |
-| 8         | ⚪⚫⚫⚪<br>⚪⚪⚪⚪ |
-| 9         | ⚪⚪⚪⚪<br>⚫⚫⚪⚪ |
-| 0         | ⚪⚪⚪⚪<br>⚪⚫⚫⚪ |
+| Character | Right                 |
+| --------- | --------------------- |
+| 1         | ⚫⚪⚪⚪<br>⚪⚪⚪🔘 |
+| 2         | ⚪⚫⚪⚪<br>⚪⚪⚪🔘 |
+| 3         | ⚪⚪⚫⚪<br>⚪⚪⚪🔘 |
+| 4         | ⚪⚪⚪⚪<br>⚫⚪⚪🔘 |
+| 5         | ⚪⚪⚪⚪<br>⚪⚫⚪🔘 |
+| 6         | ⚪⚪⚪⚪<br>⚪⚪⚫🔘 |
+| 7         | ⚫⚫⚪⚪<br>⚪⚪⚪🔘 |
+| 8         | ⚪⚫⚫⚪<br>⚪⚪⚪🔘 |
+| 9         | ⚪⚪⚪⚪<br>⚫⚫⚪🔘 |
+| 0         | ⚪⚪⚪⚪<br>⚪⚫⚫🔘 |
 
 ## Symbol Layer Actions
 
 To activate the symbol layer, hold `E`
 | Action | Right                |
 | ------ | -------------------- |
-| E      | ⚪⚪⚪⚪<br>⚫⚪⚪⚪ |
+| E      | ⚪⚪⚪⚪<br>🔘⚪⚪⚪ |
 
-*Actions*
+**Table View:**
 
 | C1  | C2  | C3  | C4  |
 | --- | --- | --- | --- |
 | !   | \   | ;   | \`  |
-| ⚪  | ?   | -   | =   |
+| 🔘  | ?   | -   | =   |
+
+**List View:**
+
+| Character | Right                 |
+| --------- | --------------------- |
+| !         | ⚫⚪⚪⚪<br>🔘⚪⚪⚪ |
+| \         | ⚪⚫⚪⚪<br>🔘⚪⚪⚪ |
+| ;         | ⚪⚪⚫⚪<br>🔘⚪⚪⚪ |
+| \`        | ⚪⚪⚪⚫<br>🔘⚪⚪⚪ |
+| ?         | ⚪⚪⚪⚪<br>🔘⚫⚪⚪ |
+| -         | ⚪⚪⚪⚪<br>🔘⚪⚫⚪ |
+| =         | ⚪⚪⚪⚪<br>🔘⚪⚪⚫ |
 
 ## Custom Layer Actions
 
 To activate the custom layer, hold `O`
 | Action | Right                |
 | ------ | -------------------- |
-| O      | ⚪⚪⚪⚪<br>⚪⚪⚪⚫ |
+| O      | ⚪⚪⚪⚪<br>⚪⚪⚪🔘 |
 
-*Actions*
+**Table View:**
 
 | C1          | C2           | C3          | C4  |
 | ----------- | ------------ | ----------- | --- |
 | Mute        | Insert       | Volume Up   | ⚪  |
-| Right Shift | Print Screen | Volume Down | ⚪  |
+| Right Shift | Print Screen | Volume Down | 🔘  |
+
+
+**List View:**
+
+| Character    | Right                  |
+| ------------ | --------------------- |
+| Mute         | ⚫⚪⚪⚪<br>⚪⚪⚪🔘 |
+| Insert       | ⚪⚫⚪⚪<br>⚪⚪⚪🔘 |
+| Volume Up    | ⚪⚪⚫⚪<br>⚪⚪⚪🔘 |
+| Right Shift  | ⚪⚪⚪⚪<br>⚫⚪⚪🔘 |
+| Print Screen | ⚪⚪⚪⚪<br>⚪⚫⚪🔘 |
+| Volume Down  | ⚪⚪⚪⚪<br>⚪⚪⚫🔘 |
 
 ## Navigation Layer Actions
 
@@ -515,7 +593,7 @@ To toggle the Navigation layer, tap `R I E`
 | ⚪  | ⚫  | ⚪  | ⚪  |
 | ⚫  | ⚪  | ⚫  | ⚪  |
 
-*Actions*
+_Actions_
 
 | C1   | C2   | C3    | C4        |
 | ---- | ---- | ----- | --------- |
@@ -531,7 +609,7 @@ To toggle the Mouse layer, tap `T Y A`
 | ⚫  | ⚪  | ⚫  | ⚪  |
 | ⚪  | ⚫  | ⚪  | ⚪  |
 
-*Actions*
+_Actions_
 
 | C1       | C2   | C3       | C4         |
 | -------- | ---- | -------- | ---------- |
@@ -547,7 +625,7 @@ To toggle the Bluetooth layer, tap `S O A E`
 | ⚫  | ⚪  | ⚪  | ⚫  |
 | ⚫  | ⚪  | ⚪  | ⚫  |
 
-*Actions*
+_Actions_
 
 | C1        | C2        | C3        | C4         |
 | --------- | --------- | --------- | ---------- |
@@ -564,7 +642,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 ### Left Default/Base Layer Actions
 
-|      |     |       |         |         |
+| C1   | C2  | C3    | C4      | C5      |
 | ---- | --- | ----- | ------- | ------- |
 | S    | T   | R     | A       | -       |
 | O    | I   | Y     | E       | Shift   |
@@ -575,7 +653,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 ### Left Symbol Layer Actions
 
-|     |     |     |     |     |
+| C1   | C2  | C3    | C4      | C5      |
 | --- | --- | --- | --- | --- |
 | \`  | #   | {   | }   | ^   |
 | \   | $   | (   | )   | &   |
@@ -584,7 +662,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 ### Left Activate Function Layer Combo
 
-|     |     |     |     |     |
+| C1   | C2  | C3    | C4      | C5      |
 | --- | --- | --- | --- | --- |
 | ⚪  | ⚪  | ⚪  | ⚪  | ⚪  |
 | ⚪  | ⚪  | ⚪  | ⚪  | ⚫  |
@@ -593,7 +671,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 ### Left Function Layer Actions - Single Taps
 
-|     |     |     |     |     |
+| C1   | C2  | C3    | C4      | C5      |
 | --- | --- | --- | --- | --- |
 | F4  | F3  | F2  | F1  | ⚪  |
 | F8  | F7  | F6  | F5  | ⚪  |
@@ -604,7 +682,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 ### Right Default/Base Layer Actions
 
-|         |         |       |     |      |
+| C1      | C2      | C3    | C4  | C5   |
 | ------- | ------- | ----- | --- | ---- |
 | -       | A       | R     | T   | S    |
 | Shift   | E       | Y     | I   | O    |
@@ -615,7 +693,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 ### Right Symbol Layer Actions
 
-|     |     |     |     |     |
+| C1   | C2  | C3    | C4      | C5      |
 | --- | --- | --- | --- | --- |
 | \`  | #   | {   | }   | ^   |
 | \   | $   | (   | )   | &   |
@@ -626,7 +704,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 ### Right Activate Function Layer Combo
 
-|     |     |     |     |     |
+| C1   | C2  | C3    | C4      | C5      |
 | --- | --- | --- | --- | --- |
 | ⚪  | ⚪  | ⚪  | ⚪  | ⚪  |
 | ⚫  | ⚪  | ⚪  | ⚪  | ⚪  |
@@ -635,7 +713,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 
 ### Right Single Taps
 
-|     |     |     |     |     |
+| C1  | C2  | C3  | C4  | C5  |
 | --- | --- | --- | --- | --- |
 | ⚪  | F1  | F2  | F3  | F4  |
 | ⚪  | F5  | F6  | F7  | F8  |
