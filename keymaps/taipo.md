@@ -2,7 +2,7 @@
 title: taipo
 description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2022-05-02T18:01:18.164Z
+date: 2022-10-17T19:00:22.499Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -11,9 +11,13 @@ dateCreated: 2022-05-02T17:52:18.590Z
 # Basics
 Taipo is a two-handed chording system that can be used one-handed (based on your firmware setup) because it is simply two, full, mirrored keyboards that you can 100% alternate between. It uses 2 keys per finger, 10 keys per hand, 20 keys total. All characters are single chords involving 3 or fewer keys and nothing requires holds except for modifiers (for two handed). There is zero consecutive hand or finger usage when using it with two hands and Taipo's biggest benefit is its consistent flow and ease of access to all symbols. Here are some visual aides (yes I am NotGate: I made the ISRT and Whorf layouts): 
 Typing Demonstration: https://www.youtube.com/watch?v=FI8Imy3krnA
-Chord Layout:
+
+**Chord Layout:**
 ![layout](https://media.discordapp.net/attachments/823050683438858290/962883608853479495/taipo.png?width=1440&height=604)
 
+**Alternative Diagram:**
+
+![layout](https://media.discordapp.net/attachments/962807598665576478/1031641279521619988/Taipo_Left_Right_v2.png?width=1114&height=645)
 # Firmware
 As for using it, I just have my personal code that I have used for my keyboards. It may be incomplete, buggy, or have edge-cases for one-handed use. I use Taipo full-time on my Zaphod with two hands, so any use on other keyboards or with one hand might need help from the community. Note: This is a personal project I have been asked to share with others - outside of supplying what I do to make it work, I don't feel obligated to do much more.
 ZMK (Zaphod): https://gist.github.com/whorfian/fce2b22d4a5885c2be8e6899d55b3add
