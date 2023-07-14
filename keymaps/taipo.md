@@ -2,7 +2,7 @@
 title: taipo
 description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2023-07-14T01:28:15.005Z
+date: 2023-07-14T01:28:56.317Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -15,7 +15,7 @@ Typing Demonstration: https://www.youtube.com/watch?v=FI8Imy3krnA
 **Chord Layout:**
 
 This is a 2x4 set of keys and combos from the perspective of the right hand.
-Keys in a colow, when pressed simultaneously, produce the first row of chars of that color.
+Keys in a color, when pressed simultaneously, produce the first row of chars of that color.
 The 2nd and 3rd rows are produced by adding a thumb key. The 2 thumb keys are referred to as "inner" and "outer" thumb keys, the "inner" one is closest to your palm.
 Ex: Top index + top middle is y and adding a thumb key gives you Y or 5.
 The outer thumb key by itself is space, and the inner one is backspace.
