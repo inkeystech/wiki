@@ -2,7 +2,7 @@
 title: taipo
 description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2023-07-14T01:28:56.317Z
+date: 2023-07-16T08:08:17.454Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -16,9 +16,8 @@ Typing Demonstration: https://www.youtube.com/watch?v=FI8Imy3krnA
 
 This is a 2x4 set of keys and combos from the perspective of the right hand.
 Keys in a color, when pressed simultaneously, produce the first row of chars of that color.
-The 2nd and 3rd rows are produced by adding a thumb key. The 2 thumb keys are referred to as "inner" and "outer" thumb keys, the "inner" one is closest to your palm.
+The 2nd and 3rd rows are produced by adding a thumb key. The 2 thumb keys are referred to as "inner" and "outer" thumb keys, the "inner" one is closest to your palm. When pressed individually, the inner thumb key is space and the outer one is backspace.
 Ex: Top index + top middle is y and adding a thumb key gives you Y or 5.
-The outer thumb key by itself is space, and the inner one is backspace.
 
 ![layout](https://media.discordapp.net/attachments/962807598665576478/1129222645204914196/taipo.png?width=1437&height=445)
 
