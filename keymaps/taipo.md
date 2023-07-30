@@ -2,7 +2,7 @@
 title: taipo
 description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2023-07-16T08:08:17.454Z
+date: 2023-07-30T06:07:47.232Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -24,10 +24,26 @@ Ex: Top index + top middle is y and adding a thumb key gives you Y or 5.
 **Alternative Diagram:**
 
 ![layout](https://media.discordapp.net/attachments/962807598665576478/1031641279521619988/Taipo_Left_Right_v2.png?width=1114&height=645)
+
 # Firmware
-As for using it, I just have my personal code that I have used for my keyboards. It may be incomplete, buggy, or have edge-cases for one-handed use. I use Taipo full-time on my Zaphod with two hands, so any use on other keyboards or with one hand might need help from the community. Note: This is a personal project I have been asked to share with others - outside of supplying what I do to make it work, I don't feel obligated to do much more.
-ZMK (fata1err0r#6058): https://github.com/dlip/zmk-taipo
-QMK (Hunner#5137): https://github.com/hunner/keyboard-layouts/tree/personal/keyboards/gboards/georgi/taipo
+
+If you have a programmable keyboard these examples can help you set it up for Taipo
+
+## QMK
+
+- https://github.com/dlip/qmk_firmware/blob/chouchou/keyboards/chouchou/keymaps/default/keymap.c
+- https://github.com/hunner/keyboard-layouts/blob/personal/keyboards/gboards/georgi/taipo/keymap.c
+
+## ZMK
+
+- https://github.com/dlip/zmk-taipo
+
+# Keyboards
+
+You can use Taipo on many keyboards, but are some custom keyboards designed specifically for it
+
+- [UT22](https://github.com/bubbleology/UT22)
+- [Chouchou](https://github.com/dlip/chouchou)
 
 # History
 Taipo's name comes from taiko+typo. Taiko is the rhythm game that inspired my creation of Taipo, and I even made a typing game a couple years ago that is essentially Taiko but with letters. The original Taipo was not at all well optimized for English and I eventually stopped using it even though I averaged around 90-100 WPM on it. I have since made a couple different mappings using machine generation or the advice of friends. While the chord map I posted above may not be perfect, it is more than good enough for comfortable English writing and coding at decent speed.
