@@ -2,7 +2,7 @@
 title: taipo
 description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2023-07-30T06:07:47.232Z
+date: 2023-07-30T06:08:51.930Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -40,7 +40,7 @@ If you have a programmable keyboard these examples can help you set it up for Ta
 
 # Keyboards
 
-You can use Taipo on many keyboards, but are some custom keyboards designed specifically for it
+Custom keyboards designed specifically for Taipo
 
 - [UT22](https://github.com/bubbleology/UT22)
 - [Chouchou](https://github.com/dlip/chouchou)
