@@ -2,7 +2,7 @@
 title: taipo
 description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2023-08-11T06:14:19.173Z
+date: 2023-08-11T06:22:57.621Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -31,7 +31,7 @@ If you have a programmable keyboard these examples can help you set it up for Ta
 
 ## QMK
 
-- https://github.com/dlip/qmk_firmware/blob/chouchou/keyboards/chouchou/keymaps/default/keymap.c
+- https://github.com/dlip/qmk_firmware/blob/chouchou/users/dlip/taipo.md
 - https://github.com/hunner/keyboard-layouts/blob/personal/keyboards/gboards/georgi/taipo/keymap.c
 
 ## ZMK
