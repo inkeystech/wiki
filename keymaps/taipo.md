@@ -2,7 +2,7 @@
 title: taipo
 description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2023-07-30T06:08:51.930Z
+date: 2023-08-11T06:14:19.173Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -23,7 +23,7 @@ Ex: Top index + top middle is y and adding a thumb key gives you Y or 5.
 
 **Alternative Diagram:**
 
-![layout](https://media.discordapp.net/attachments/962807598665576478/1031641279521619988/Taipo_Left_Right_v2.png?width=1114&height=645)
+![layout](https://media.discordapp.net/attachments/962807598665576478/1139441000310374461/Taipo_Left_Right_v5.png?width=1159&height=671)
 
 # Firmware
 
