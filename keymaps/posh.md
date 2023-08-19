@@ -2,7 +2,7 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-19T11:14:48.254Z
+date: 2023-08-19T11:29:42.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
@@ -26,9 +26,12 @@ O T E           E T O
     BS SP   SP BS
 ```
 
-|input|output|outer|inner|both|
+Below is the keymap as viewed from the left hand. The # represents which keys are pressed from the six in the finger cluster. The other columns represent the output when pressed alone or with the outer, inner or both thumb keys.
+
+
+|input|alone|outer|inner|both|
 |---|---|---|---|---|
-|---<br>--#|e|E|right|end|
+|---  <br>--#|e|E|right|end|
 |---  <br>-#-|t|T|down|pgdn|
 |#--  <br>---|a|A|esc|del|
 |---  <br>#--|o|O|left|home|
@@ -49,7 +52,7 @@ O T E           E T O
 |-#-  <br>#-#|v|V|/|\|
 |--#  <br>##-|k|K|;|\||
 |##-  <br>--#|j|J|:|*|
-|#-  <br>-##|x|X|$|#|
+|#--  <br>-##|x|X|$|#|
 |-#-  <br>-##|q|Q|@|F11|
 |-##  <br>-#-|z|Z|&|F12|
 |#--  <br>-#-|?|!|\`|~|
