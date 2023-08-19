@@ -2,7 +2,7 @@
 title: Keymaps
 description: Keymap related information
 published: true
-date: 2022-05-02T18:23:36.665Z
+date: 2023-08-19T10:29:59.153Z
 tags: keymap, wip
 editor: markdown
 dateCreated: 2022-04-20T17:37:36.835Z
@@ -14,6 +14,9 @@ The sections below outline which keymaps are documented on the knowledge base wi
 
 > [taipo](/keymaps/taipo)
 A (primarily) two-handed layout focused on consistency, rhythm, and generality
+
+> [posh](/keymaps/posh)
+A taipo style layout that excludes the pinkies
 
 > [ardux](/keymaps/ardux)
 A keyboard layout that scales from just 8 keys up to 36 keys. Using one or two hands!
