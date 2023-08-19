@@ -2,7 +2,7 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-19T11:29:42.967Z
+date: 2023-08-19T11:34:02.020Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
@@ -64,3 +64,9 @@ Below is the keymap as viewed from the left hand. The # represents which keys ar
 |-##  <br>--#|^|vol up|vol down|print|
 |--#  <br>#-#|%|bri up|bri down|insert|
 |#-#  <br>--#|layer 0|layer 1|layer 2|layer 3|
+
+## Firmware
+
+I'm currently working on QMK firmware here:
+
+https://github.com/dlip/qmk_firmware/tree/posh/keyboards/chouchou/keymaps/taipo
