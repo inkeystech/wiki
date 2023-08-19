@@ -2,7 +2,7 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-19T11:06:57.556Z
+date: 2023-08-19T11:14:48.254Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
@@ -25,3 +25,39 @@ A N I           I N A
 O T E           E T O
     BS SP   SP BS
 ```
+
+|input|output|outer|inner|both|
+|---|---|---|---|---|
+|---<br>--#|e|E|right|end|
+|---  <br>-#-|t|T|down|pgdn|
+|#--  <br>---|a|A|esc|del|
+|---  <br>#--|o|O|left|home|
+|--#  <br>---|i|I|enter|tab|
+|-#-  <br>---|n|N|up|pgup|
+|-##  <br>---|s|S|,|'|
+|---  <br>-##|h|H|.|"|
+|-#-  <br>--#|r|R|0|F10|
+|##-  <br>---|d|D|1|F1|
+|--#  <br>-#-|l|L|2|F2|
+|---  <br>#-#|c|C|3|F3|
+|---  <br>##-|u|U|4|F4|
+|#--  <br>--#|m|M|5|F5|
+|--#  <br>#--|w|W|6|F6|
+|#-#  <br>---|f|F|7|F7|
+|-#-  <br>#--|g|G|8|F8|
+|-##  <br>#--|y|Y|9|F9|
+|-#-  <br>#-#|v|V|/|\|
+|--#  <br>##-|k|K|;|\||
+|##-  <br>--#|j|J|:|*|
+|#-  <br>-##|x|X|$|#|
+|-#-  <br>-##|q|Q|@|F11|
+|-##  <br>-#-|z|Z|&|F12|
+|#--  <br>-#-|?|!|\`|~|
+|-#-  <br>-#-|gui|)|(|gui+shift|
+|--#  <br>--#|ctrl|]|\[|ctrl+shift|
+|#--  <br>#--|alt|}|{|alt+shift|
+|-#-  <br>##-|ralt|>|<|altgr + shift|
+|--#  <br>-##|play/pause|next track|prev track|stop|
+|-##  <br>--#|^|vol up|vol down|print|
+|--#  <br>#-#|%|bri up|bri down|insert|
+|#-#  <br>--#|layer 0|layer 1|layer 2|layer 3|
