@@ -2,13 +2,13 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-21T06:39:33.381Z
+date: 2023-08-21T07:55:43.817Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
 ---
 
-# Posh (work in progress)
+# Posh
 
 ![Holding teacup with pinkie extended](https://qph.cf2.quoracdn.net/main-qimg-37615fa2111b6d45a66b63b8173cc51b.webp)
 
