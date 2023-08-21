@@ -2,13 +2,15 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-21T00:03:40.534Z
+date: 2023-08-21T00:12:02.880Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
 ---
 
 # Posh (work in progress)
+
+![Holding teacup with pinkie extended](https://qph.cf2.quoracdn.net/main-qimg-37615fa2111b6d45a66b63b8173cc51b.webp)
 
 Posh is a [taipo](/en/keymaps/taipo) style layout that excludes the pinkies in order to make long periods of work more comfortable.
 
