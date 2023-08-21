@@ -2,7 +2,7 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-19T11:47:13.699Z
+date: 2023-08-21T00:03:40.534Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
@@ -49,21 +49,29 @@ Below is the keymap as viewed from the left hand. The # represents which keys ar
 |#-#  <br>---|f|F|7|F7|
 |-#-  <br>#--|g|G|8|F8|
 |-##  <br>#--|y|Y|9|F9|
+|###  <br>---|p|P|+|=|
+|---  <br>###|b|B|-|_|
 |-#-  <br>#-#|v|V|/|\|
-|--#  <br>##-|k|K|;|\||
-|##-  <br>--#|j|J|:|*|
+|##-  <br>--#|k|K|;|\||
+|--#  <br>##-|j|J|:|*|
 |#--  <br>-##|x|X|$|#|
-|-#-  <br>-##|q|Q|@|F11|
-|-##  <br>-#-|z|Z|&|F12|
-|#--  <br>-#-|?|!|\`|~|
+|#--  <br>#-#|q|Q|@|F11|
+|-#-  <br>-##|z|Z|&|F12|
+|#--  <br>-#-|?|!|^||
+|--#  <br>#-#|\`|~|%||
 |-#-  <br>-#-|gui|)|(|gui+shift|
 |--#  <br>--#|ctrl|]|\[|ctrl+shift|
 |#--  <br>#--|alt|}|{|alt+shift|
-|-#-  <br>##-|ralt|>|<|ralt+shift|
+|#--  <br>##-|ralt|>|<|ralt + shift|
 |--#  <br>-##|play/pause|next track|prev track|stop|
-|-##  <br>--#|^|vol up|vol down|print|
-|--#  <br>#-#|%|bri up|bri down|insert|
-|#-#  <br>--#|layer 0|layer 1|layer 2|layer 3|
+|-#-  <br>##-|print|vol up|vol down|mute|
+|#-#  <br>--#|insert|bri up|bri down||
+|#-#  <br>-#-|layer 0|layer 1|layer 2|layer 3|
+|##-  <br>-#-|||||
+|##-  <br>#--|||||
+|#-#  <br>#--|||||
+|-##  <br>-#-|||||
+|-##  <br>--#|||||
 
 ## Firmware
 
