@@ -2,7 +2,7 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-21T00:12:02.880Z
+date: 2023-08-21T00:12:44.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
@@ -64,7 +64,7 @@ Below is the keymap as viewed from the left hand. The # represents which keys ar
 |-#-  <br>-#-|gui|)|(|gui+shift|
 |--#  <br>--#|ctrl|]|\[|ctrl+shift|
 |#--  <br>#--|alt|}|{|alt+shift|
-|#--  <br>##-|ralt|>|<|ralt + shift|
+|#--  <br>##-|ralt|>|<|ralt+shift|
 |--#  <br>-##|play/pause|next track|prev track|stop|
 |-#-  <br>##-|print|vol up|vol down|mute|
 |#-#  <br>--#|insert|bri up|bri down||
