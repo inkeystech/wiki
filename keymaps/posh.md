@@ -2,7 +2,7 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-21T00:12:44.967Z
+date: 2023-08-21T00:19:31.616Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
@@ -29,6 +29,8 @@ O T E           E T O
 ```
 
 Below is the keymap as viewed from the left hand. The # represents which keys are pressed from the six in the finger cluster. The other columns represent the output when pressed alone or with the outer, inner or both thumb keys.
+
+The order is based loosely on the [Wikipedia Letter Frequency](https://en.wikipedia.org/wiki/Letter_frequency) by English text, with a slight preference to keep combos similar to taipo so I could benefit from my existing practice.
 
 
 |input|alone|outer|inner|both|
