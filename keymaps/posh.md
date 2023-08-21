@@ -2,7 +2,7 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-21T00:19:31.616Z
+date: 2023-08-21T03:30:30.993Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
@@ -16,7 +16,7 @@ Posh is a [taipo](/en/keymaps/taipo) style layout that excludes the pinkies in o
 
 ## Layout
 
-Similar to taipo, the layout is two mirrored keyboards that are designed to be alternated between for each keypress. Here is the base layout, some things worth noting:
+Similar to taipo, the layout is two mirrored keyboards that are designed to be alternated between for each keypress. Here is the base layout and some things worth noting:
 
 - Space and backspace are swapped
 - Makes use of both thumb keys together in combos
@@ -82,3 +82,7 @@ The order is based loosely on the [Wikipedia Letter Frequency](https://en.wikipe
 I'm currently working on QMK firmware here:
 
 https://github.com/dlip/qmk_firmware/tree/posh/keyboards/chouchou/keymaps/taipo
+
+## Contact
+
+.fata1err0r on Discord
