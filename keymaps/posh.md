@@ -2,13 +2,13 @@
 title: Posh
 description: 
 published: true
-date: 2023-08-21T07:55:43.817Z
+date: 2023-09-02T08:09:47.983Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-19T10:33:53.753Z
 ---
 
-# Posh
+# posh
 
 ![Holding teacup with pinkie extended](https://qph.cf2.quoracdn.net/main-qimg-37615fa2111b6d45a66b63b8173cc51b.webp)
 
@@ -81,7 +81,7 @@ The order is based loosely on the [Wikipedia Letter Frequency](https://en.wikipe
 
 I'm currently working on QMK firmware here:
 
-https://github.com/dlip/qmk_firmware/tree/posh/keyboards/chouchou/keymaps/taipo
+https://github.com/dlip/qmk_firmware/tree/dlip/keyboards/chouchou/keymaps/posh
 
 ## Contact
 
