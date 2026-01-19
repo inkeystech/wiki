@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2022-07-19T16:27:38.481Z
+date: 2026-01-19T15:43:38.863Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -29,6 +29,12 @@ Below you'll find a breakdown of who has 'owner' rights to various accounts/serv
 
 - GitHub org
 - GitHub repos
+## Inkeys Generative AI Policy
+The Inkeys Admin Team do NOT support the use of generative models (AI) and will reject ANY code creating using these models from our codebases.
+
+Our reasons include the further destruction of the Earth's climate, the total pillaging of the commons, the excessive slop that has permeated the web and open source community code repos, the re-packaging of content without attribution, unchecked hallucinations causing problems and so many more.
+
+Inkeys is a project designed for humans by humans to help them in their daily lives. We are not a content farm and do not need generative models polluting our space.
 
 ## Knowledge Base Specific
 
