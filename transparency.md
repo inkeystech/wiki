@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2026-02-21T18:37:27.713Z
+date: 2026-02-21T18:40:22.014Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -25,8 +25,13 @@ Below you'll find a breakdown of who has 'owner' rights to various accounts/serv
 - GitHub org
 - GitHub repos
 - Discord
+- Zulip
 - js.wiki
 - Namecheap Registration
+
+
+### kemonine
+- Zulip
 
 
 ## Inkeys Generative AI Policy
