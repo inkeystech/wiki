@@ -2,7 +2,7 @@
 title: Transparency Report
 description: A breakdown of the finer details on how inkeys is hosted and structured
 published: true
-date: 2026-01-19T15:43:38.863Z
+date: 2026-02-21T04:08:13.210Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-20T19:52:36.779Z
@@ -13,6 +13,7 @@ dateCreated: 2022-04-20T19:52:36.779Z
 - NameCheap registrar (#fixme granit)
 - Discord for chat
 - GitHub for git repository hosting and GitHub pages
+- Our community forum is provided by Zulip through their [Open Source Sponsorship project](https://zulip.com/for/open-source/)
 
 ## 'Ownership'
 
