@@ -2,14 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2022-05-19T18:56:26.029Z
+date: 2026-03-13T20:40:38.932Z
 tags: faq
 editor: markdown
 dateCreated: 2022-04-11T23:55:48.253Z
 ---
 
-## Welcome [![Discord](https://img.shields.io/discord/962797925551992893?style=plastic&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fGUjnUuAVQ)
-
+## Welcome <a href="https://inkeys.zulipchat.com"><img src="https://img.shields.io/badge/zulip-join_chat-brightgreen.svg" /></a>
 
 The inkeys knowledge base is meant to be a go-to resource for all things related to input devices.
 
