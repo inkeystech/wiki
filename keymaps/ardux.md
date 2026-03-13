@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2022-07-22T16:28:59.859Z
+date: 2026-03-13T20:36:47.271Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -22,9 +22,9 @@ ardux aims to facilitate one handed typing (mobile needs, physical needs, etc) w
 
 ## Additional Information
 
-Below you'll find additional details about the ardux layout, including a full overview of the layout and its three forms. We have a Discord at [https://discord.gg/fGUjnUuAVQ](https://discord.gg/fGUjnUuAVQ) if you'd like to get in touch directly.
+Below you'll find additional details about the ardux layout, including a full overview of the layout and its three forms. We are part of the [inkeys zulip](https://inkeys.zulipchat.com) if you'd like to get in touch directly.
 
-Feedback via Discord is welcome.
+Feedback via Zulip is welcome.
 
 # Supported Keyboards
 
@@ -40,9 +40,9 @@ If you see a remix for ardux, it means a user has taken the ardux sources and ma
 
 We _encourage_ users of ardux to change the layout if desired and make it their own.
 
-If you have a remix, we welcome posts about how you've remixed on our Discord.
+If you have a remix, we welcome posts about how you've remixed on our Zulip.
 
-A list of remixes that have been posted to Discord is also available [here](/keymaps/ardux/remixes)
+A list of remixes that have been posted to Zulip is also available [here](/keymaps/ardux/remixes)
 
 Please note: you will need to compile the appropriate keyboard firmware in order to create a remix and we have found there is a bit of a learning curve to get going with remixes. We work to minimize the learning curve but have not found a way to improve the situation further yet.
 
