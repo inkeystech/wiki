@@ -2,7 +2,7 @@
 title: ardux
 description: General documentation for the ardux keymap
 published: true
-date: 2026-03-13T20:37:01.967Z
+date: 2026-03-24T17:53:47.432Z
 tags: ardux, keymap, comingsoon
 editor: markdown
 dateCreated: 2022-04-20T14:58:35.235Z
@@ -657,7 +657,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 | --- | --- | --- | --- | --- |
 | \`  | #   | {   | }   | ^   |
 | \   | $   | (   | )   | &   |
-| \|  | %   | [   | ]   | &   |
+| \|  | %   | [   | ]   | *   |
 | ⚪  | ⚪  | ⚪  |     |     |
 
 ### Left Activate Function Layer Combo
@@ -697,7 +697,7 @@ Please refer to the standard ardux layout for the primary use and the below for 
 | --- | --- | --- | --- | --- |
 | \`  | #   | {   | }   | ^   |
 | \   | $   | (   | )   | &   |
-| \|  | %   | [   | ]   | &   |
+| \|  | %   | [   | ]   | *   |
 | ⚪  | ⚪  | ⚪  |     |     |
 
 ### Right Function Layer Actions
