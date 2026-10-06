@@ -2,7 +2,7 @@
 title: taipo
 description: A (primarily) two-handed layout focused on consistency, rhythm, and generality
 published: true
-date: 2024-03-13T02:23:41.107Z
+date: 2026-10-06T17:01:04.746Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-02T17:52:18.590Z
@@ -40,7 +40,8 @@ If you have a programmable keyboard these examples can help you set it up for Ta
 
 ## ZMK
 
-- https://github.com/dlip/zmk-taipo
+- https://github.com/hunner/zmk-taipo Library for adding taipo to any zmk keymap 
+- https://github.com/dlip/zmk-taipo aprebuilt firmware for Ferris Sweep and Corne
 
 # Keyboards
 
